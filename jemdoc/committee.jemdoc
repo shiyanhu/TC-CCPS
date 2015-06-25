@@ -1,0 +1,177 @@
+# jemdoc: menu{MENU}{committee.html}
+# jemdoc: addcss{jemdoc/css/jemdoc.css}
+# jemdoc: addcss{jemdoc/css/myExtra.css}
+# jemdoc: title{TC-CCPS}
+
+~~~
+{}{img_left}{jemdoc/img/logo_ccps.jpg}{TC-CCPS}{1044}{}{}
+~~~
+
+= Executive Committee
+
+== Chairs
+
+~~~
+{}{img_left}{jemdoc/img/committee_syhu.jpg}{}{200}{}{}
+
+=== [http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]
+Department of Electrical and Computer Engineering \n
+Michigan Technological University \n
+1400 Townsend Drive, Houghton, MI, 49931 \n
+USA \n
+==== [http://www.ece.mtu.edu/faculty/shiyan/ Homepage]
+~~~
+
+~~~
+{}{img_left}{jemdoc/img/committee_azomaya.gif}{}{160}{}{}
+
+=== [http://sydney.edu.au/engineering/it/~zomaya/ Albert Y. Zomaya]
+School of Information Technologies \n
+The University of Sydney \n
+Sydney, NSW 2006 \n
+Australia \n
+==== [http://sydney.edu.au/engineering/it/~zomaya/ Homepage]
+~~~
+
+
+== Members
+
+
+# ==== Dr. Alpert
+~~~
+{}{img_left}{jemdoc/img/committee_calpert.jpg}{}{160}{}{}
+=== Charles Alpert
+Cadence Inc. \n
+USA \n
+~~~~
+
+
+# ==== Dr. Betis
+~~~
+{}{img_left}{jemdoc/img/committee_gbetis.jpg}{}{160}{}{}
+
+=== [http://electronicdesign.com/author/gilles-betis Gilles Betis]
+IEEE Smart Cities Initiatives Chair \n
+France \n
+==== [http://electronicdesign.com/author/gilles-betis Homepage]
+~~~
+
+
+# ==== Prof. Bouvry
+~~~
+{}{img_left}{jemdoc/img/committee_pbouvry.jpg}{}{160}{}{}
+
+=== [http://wwwen.uni.lu/research/fstc/computer_science_and_communications_research_unit/members/pascal_bouvry Pascal Bouvry]
+Campus Kirchberg, Université du Luxembourg \n
+6, rue Richard Coudenhove-Kalergi \n
+L-1359 Luxembourg \n
+==== [http://wwwen.uni.lu/research/fstc/computer_science_and_communications_research_unit/members/pascal_bouvry Homepage]
+~~~
+
+
+# ==== Prof. Henkel
+~~~
+{}{img_left}{jemdoc/img/committee_jhenkel.jpg}{}{160}{}{}
+
+=== [http://ces.itec.kit.edu/21_henkel.php Jörg Henkel]
+Karlsruhe Institute of Technology \n
+Germany \n
+==== [http://ces.itec.kit.edu/21_henkel.php Homepage]
+~~~
+
+
+# ==== Prof. Hu
+~~~
+{}{img_left}{jemdoc/img/committee_shu.jpg}{}{160}{}{}
+
+=== [http://www3.nd.edu/~shu/ Sharon Hu]
+Deptartment of Computer Science and Engineering \n
+University of Notre Dame, Notre Dame, IN 46556 \n
+USA \n
+==== [http://www3.nd.edu/~shu/ Homepage]
+~
+
+
+# ==== Prof. Kuo
+~~~
+{}{img_left}{jemdoc/img/committee_twkuo.jpg}{}{160}{}{}
+
+==== [http://www.csie.ntu.edu.tw/~ktw/ Tei-Wei Kuo]
+Department of Computer Science and Information Engineering \n
+National Taiwan University \n
+Taiwan \n
+[http://www.csie.ntu.edu.tw/~ktw/ Homepage]
+~~~
+
+
+# ==== Prof. Li
+~~~
+{}{img_left}{jemdoc/img/committee_xli.jpg}{}{160}{}{}
+=== [http://users.ece.cmu.edu/~xinli Xin Li]
+Department of Electrical and Computer Engineering \n
+Carnegie Mellon University \n
+USA \n
+==== [http://users.ece.cmu.edu/~xinli Homepage]
+~~~
+
+
+# ==== Prof. Martinez
+~~~
+{}{img_left}{jemdoc/img/committee_jsmartinez.jpg}{}{160}{}{}
+
+=== [http://engineering.tamu.edu/electrical/people/jsilvamartinez Jose Silva-Martinez]
+Department of Electrical and Computer Engineering \n
+Texas A&M University \n
+USA \n
+==== [http://engineering.tamu.edu/electrical/people/jsilvamartinez Homepage]
+~~~~
+
+
+# ==== Prof. Parashar
+~~~
+{}{img_left}{jemdoc/img/committee_mparashar.jpg}{}{160}{}{}
+
+=== [http://parashar.rutgers.edu/ Manish Parashar]
+Department of Computer Science \n
+Rutgers, The State University of New Jersey \n
+USA \n
+==== [http://parashar.rutgers.edu/ Homepage]
+~~~
+
+# ==== Prof. Rosenstiel
+~~~
+{}{img_left}{jemdoc/img/committee_wrosenstiel.jpg}{}{160}{}{}
+
+=== [http://www.ti.uni-tuebingen.de/Wolfgang-Rosenstiel.191.0.html Wolfgang Rosenstiel]
+Lehrstuhl Technische Informatik \n
+University of Tuebingen \n
+Germany \n
+==== [http://www.ti.uni-tuebingen.de/Wolfgang-Rosenstiel.191.0.html Homepage]
+~~~
+
+
+# ==== Prof. Ranjan
+~~~
+{}{img_left}{jemdoc/img/committee_rranjan.jpg}{}{160}{}{}
+
+=== [http://rajivranjan.net/about/ Rajiv Ranjan]
+CSIRO, Australia \n
+==== [http://rajivranjan.net/about/ Homepage]
+~~~
+
+
+# ==== Prof. Xie
+~~~
+{}{img_left}{jemdoc/img/committee_yxie.jpg}{}{160}{}{}
+
+=== [http://www.cse.psu.edu/~yuanxie/ Yuan Xie]
+Department of Electrical and Computer Engineering \n
+University of California at Santa Barbara \n
+USA \n
+==== [http://www.cse.psu.edu/~yuanxie/ Homepage]
+~~~
+
+
+\n \n
+
+
