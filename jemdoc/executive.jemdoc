@@ -1,13 +1,15 @@
-# jemdoc: menu{MENU}{award.html}
+# jemdoc: menu{MENU}{executive.html}
 # jemdoc: addcss{jemdoc/css/jemdoc.css}
 # jemdoc: addcss{jemdoc/css/myExtra.css}
 # jemdoc: title{TC-CCPS}
 
-~~~
-{}{img_left}{jemdoc/img/logo_ccps.jpg}{TC-CCPS}{1044}{}{}
-~~~
 
-= Awards
+# ==== header
+#include{header.jemdoc}
+
+
+= Executive Committee
 
 Coming soon...
+
 

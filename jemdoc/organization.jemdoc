@@ -1,0 +1,74 @@
+# jemdoc: menu{MENU}{organization.html}
+# jemdoc: addcss{jemdoc/css/jemdoc.css}
+# jemdoc: addcss{jemdoc/css/myExtra.css}
+# jemdoc: title{TC-CCPS}
+
+
+# ==== header
+#include{header.jemdoc}
+
+
+= Organization Committee
+
+
+# ==== Prof. Henkel
+~~~
+{}{img_left}{jemdoc/img/committee_jhenkel.jpg}{}{160}{}{}
+
+=== [http://ces.itec.kit.edu/21_henkel.php Jörg Henkel]
+Karlsruhe Institute of Technology \n
+Germany \n
+==== [http://ces.itec.kit.edu/21_henkel.php Homepage]
+~~~
+
+
+# ==== Prof. Hu
+~~~
+{}{img_left}{jemdoc/img/committee_shu.jpg}{}{160}{}{}
+
+=== [http://www3.nd.edu/~shu/ Sharon Hu]
+Deptartment of Computer Science and Engineering \n
+University of Notre Dame, Notre Dame, IN 46556 \n
+USA \n
+==== [http://www3.nd.edu/~shu/ Homepage]
+~
+
+
+# ==== Prof. S.Y. Hu
+~~~
+{}{img_left}{jemdoc/img/committee_syhu.jpg}{}{200}{}{}
+
+=== [http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]
+Department of Electrical and Computer Engineering \n
+Michigan Technological University \n
+1400 Townsend Drive, Houghton, MI, 49931 \n
+USA \n
+==== [http://www.ece.mtu.edu/faculty/shiyan/ Homepage]
+~~~
+
+
+# ==== Prof. Kuo
+~~~
+{}{img_left}{jemdoc/img/committee_twkuo.jpg}{}{160}{}{}
+
+==== [http://www.csie.ntu.edu.tw/~ktw/ Tei-Wei Kuo]
+Department of Computer Science and Information Engineering \n
+National Taiwan University \n
+Taiwan \n
+[http://www.csie.ntu.edu.tw/~ktw/ Homepage]
+~~~
+
+
+# ==== Prof. Li
+~~~
+{}{img_left}{jemdoc/img/committee_xli.jpg}{}{160}{}{}
+=== [http://users.ece.cmu.edu/~xinli Xin Li]
+Department of Electrical and Computer Engineering \n
+Carnegie Mellon University \n
+USA \n
+==== [http://users.ece.cmu.edu/~xinli Homepage]
+~~~
+
+
+
+
