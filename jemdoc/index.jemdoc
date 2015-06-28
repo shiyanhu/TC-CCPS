@@ -36,9 +36,9 @@ Some example activities could be establishing best student research awards for g
 
 
 \n \n
-{{<center>}}
-{{<img src="jemdoc/img/tmp1.jpg" align="middle" width=840>}}
-{{</center>}}
+#{{<center>}}
+#{{<img src="jemdoc/img/tmp1.jpg" align="middle" width=840>}}
+#{{</center>}}
 
 
 
