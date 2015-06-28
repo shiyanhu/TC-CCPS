@@ -7,7 +7,10 @@
 # ==== header
 #include{header.jemdoc}
 
-= Scope 
+
+= Technical Committee on Cybernetics for Cyber-Physical Systems (CCPS)
+
+=== Scope 
 
 The Technical Committee on Cybernetics for Cyber-Physical Systems (CCPS) aims at promoting interdisciplinary research and education in the field of CPS.
 CCPS addresses the close interactions and feedback loop between the cyber components such as embedded computing systems and the physical components such as varying environment and mechanical systems.
@@ -22,7 +25,7 @@ It is highly desirable to develop innovative computational intelligence techniqu
 the close interactions with dynamic physical environment, and the significant uncertainties in sensor readings.
 
 
-= Motivation 
+=== Motivation 
 
 Our target is to establish a community consisting of CPS research experts and computational intelligence research experts.
 Due to the criticality of the novel computational intelligence technique in CPS research,
