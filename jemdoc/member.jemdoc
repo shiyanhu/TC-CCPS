@@ -7,9 +7,35 @@
 #include{header.jemdoc}
 
 
+= TC Co-Chairs
+
+# ==== Prof. S.Y. Hu
+~~~
+{}{img_left}{jemdoc/img/committee_syhu.png}{}{140}{}{}
+
+=== [http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]
+Department of Electrical and Computer Engineering \n
+Michigan Technological University \n
+1400 Townsend Drive, Houghton, MI, 49931 \n
+USA \n
+==== [http://www.ece.mtu.edu/faculty/shiyan/ Homepage]
+~~~
+
+# ==== Prof. Zomaya
+~~~
+{}{img_left}{jemdoc/img/committee_azomaya.jpg}{}{140}{}{}
+
+=== [http://sydney.edu.au/engineering/it/~zomaya/ Albert Y. Zomaya]
+School of Information Technologies \n
+The University of Sydney \n
+Sydney, NSW 2006 \n
+Australia \n
+==== [http://sydney.edu.au/engineering/it/~zomaya/ Homepage]
+~~~
+
+
+
 = Memberships
-
-
 
 # ==== Dr. Alpert
 ~~~
@@ -64,19 +90,6 @@ University of Notre Dame, Notre Dame, IN 46556 \n
 USA \n
 ==== [http://www3.nd.edu/~shu/ Homepage]
 ~
-
-
-# ==== Prof. S.Y. Hu
-~~~
-{}{img_left}{jemdoc/img/committee_syhu.png}{}{140}{}{}
-
-=== [http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]
-Department of Electrical and Computer Engineering \n
-Michigan Technological University \n
-1400 Townsend Drive, Houghton, MI, 49931 \n
-USA \n
-==== [http://www.ece.mtu.edu/faculty/shiyan/ Homepage]
-~~~
 
 
 # ==== Prof. Kuo
@@ -156,19 +169,6 @@ Department of Electrical and Computer Engineering \n
 University of California at Santa Barbara \n
 USA \n
 ==== [http://www.cse.psu.edu/~yuanxie/ Homepage]
-~~~
-
-
-# ==== Prof. Zomaya
-~~~
-{}{img_left}{jemdoc/img/committee_azomaya.jpg}{}{140}{}{}
-
-=== [http://sydney.edu.au/engineering/it/~zomaya/ Albert Y. Zomaya]
-School of Information Technologies \n
-The University of Sydney \n
-Sydney, NSW 2006 \n
-Australia \n
-==== [http://sydney.edu.au/engineering/it/~zomaya/ Homepage]
 ~~~
 
 
