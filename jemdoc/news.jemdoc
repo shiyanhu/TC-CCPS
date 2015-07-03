@@ -8,5 +8,15 @@
 
 = Newsletter 
 
-Coming soon...
+~~~
+{}{table}{}
+*Editor*             |                                                                         |                       ||
+Xin Li               | Carnegie Mellon University                                              | xinli@cmu.edu         ||
+*Associate Editors*  |                                                                         |                       ||
+Yier Jin             | University of Central Florida, USA                                      | yier.jin@eecs.ucf.edu ||
+Rajiv Ranjan         | Commonwealth Scientific and Industrial Research Organisation, Australia | rajiv.ranjan@csiro.au ||
+Yiyu Shi             | Missouri University of Science and Technology, USA                      | yshi@mst.edu          ||
+Bei Yu               | Chinese University of Hong Kong, Hongkong                               | disyulei@gmail.com    ||
+Qi Zhu               | University of California, Riverside, USA                                | qzhu@ece.ucr.edu  
+~~~
 
