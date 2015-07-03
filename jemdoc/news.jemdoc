@@ -8,17 +8,96 @@
 
 = Newsletter 
 
-\n
+#\n
+#~~~
+#{}{table}{}
+#*Editor*             |                                                                         |                       ||
+#Xin Li               | Carnegie Mellon University                                              | xinli@cmu.edu         ||
+#*Associate Editors*  |                                                                         |                       ||
+#Yier Jin             | University of Central Florida, USA                                      | yier.jin@eecs.ucf.edu ||
+#Rajiv Ranjan         | Commonwealth Scientific and Industrial Research Organisation, Australia | rajiv.ranjan@csiro.au ||
+#Yiyu Shi             | Missouri University of Science and Technology, USA                      | yshi@mst.edu          ||
+#Bei Yu               | Chinese University of Hong Kong, Hongkong                               | disyulei@gmail.com    ||
+#Qi Zhu               | University of California, Riverside, USA                                | qzhu@ece.ucr.edu  
+#~~~
+
+
+= Editor 
 
 ~~~
-{}{table}{}
-*Editor*             |                                                                         |                       ||
-Xin Li               | Carnegie Mellon University                                              | xinli@cmu.edu         ||
-*Associate Editors*  |                                                                         |                       ||
-Yier Jin             | University of Central Florida, USA                                      | yier.jin@eecs.ucf.edu ||
-Rajiv Ranjan         | Commonwealth Scientific and Industrial Research Organisation, Australia | rajiv.ranjan@csiro.au ||
-Yiyu Shi             | Missouri University of Science and Technology, USA                      | yshi@mst.edu          ||
-Bei Yu               | Chinese University of Hong Kong, Hongkong                               | disyulei@gmail.com    ||
-Qi Zhu               | University of California, Riverside, USA                                | qzhu@ece.ucr.edu  
+{}{img_left}{jemdoc/img/committee_xli.jpg}{}{140}{}{}
+=== [http://users.ece.cmu.edu/~xinli Xin Li]
+Department of Electrical and Computer Engineering \n
+Carnegie Mellon University \n
+USA \n
+==== Email: [mailto:xinli@cmu.edu xinli@cmu.edu]
+#==== [http://users.ece.cmu.edu/~xinli Homepage]
 ~~~
+
+
+= Associate Editors
+
+# ==== Y.Jin
+~~~
+{}{img_left}{jemdoc/img/committee_yjin.jpg}{}{140}{}{}
+
+=== [http://www.eecs.ucf.edu/~jinyier/ Yier Jin]
+Department of Electrical Engineering & Computer Science \n
+University of Central Florida \n
+USA \n
+==== Email: [mailto:yier.jin@eecs.ucf.edu yier.jin@eecs.ucf.edu]
+#==== [http://www.eecs.ucf.edu/~jinyier/ Homepage]
+~~~
+
+# ==== R. Ranjan
+~~~
+{}{img_left}{jemdoc/img/committee_rranjan.jpg}{}{140}{}{}
+
+=== [http://rajivranjan.net/about/ Rajiv Ranjan]
+Commonwealth Scientific and Industrial Research Organisation \n
+Australia \n
+#==== [http://rajivranjan.net/about/ Homepage]
+==== Email: [mailto:rajiv.ranjan@csiro.au rajiv.ranjan@csiro.au]
+~~~
+
+
+# ==== Y. Shi
+~~~
+{}{img_left}{jemdoc/img/committee_yshi.jpg}{}{140}{}{}
+
+=== [http://web.mst.edu/~yshi/ Yiyu Shi]
+Electrical and Computer Engineering Department \n
+Missouri University of Science and Technology \n
+USA \n
+==== Email: [yshi@mst.edu yshi@mst.edu]
+~~~
+
+
+# ==== B. Yu
+~~~
+{}{img_left}{jemdoc/img/committee_byu.jpg}{}{140}{}{}
+
+=== [http://www.cerc.utexas.edu/~bei/ Bei Yu]
+Department of Electrical and Computer Engineering \n
+University of Texas at Austin \n
+USA \n
+#==== [http://www.cerc.utexas.edu/~bei/ Homepage]
+==== Email: [disyulei@gmail.com disyulei@gmail.com]
+~~~
+
+
+# ==== Q. Zhu
+~~~
+{}{img_left}{jemdoc/img/committee_qzhu.jpg}{}{140}{}{}
+
+=== [http://www.ee.ucr.edu/~qzhu/ Qi Zhu]
+Department of Electrical and Computer Engineering \n
+University of California at Riverside \n
+USA \n
+#==== [http://www.ee.ucr.edu/~qzhu/ Homepage]
+==== Email: [qzhu@ece.ucr.edu qzhu@ece.ucr.edu]
+~~~
+
+
+
 
