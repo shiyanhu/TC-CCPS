@@ -27,11 +27,13 @@ div.menu-category {
 	font-weight: bold;
 }
 
+/*
 a:hover {
 	color: #000000 ;
 	background: #f4f605;	
 	border-bottom: 1px #999900 solid ;
 }
+*/
 #layout-menu a:hover
 {
 	color: #000000 ;
