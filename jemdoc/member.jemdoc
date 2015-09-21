@@ -7,7 +7,7 @@
 #include{header.jemdoc}
 
 
-= TC Co-Chairs
+= TC Chairs
 
 # ==== Prof. S.Y. Hu
 ~~~
@@ -45,6 +45,15 @@ Cadence Inc. \n
 USA \n
 ~~~~
 
+# ==== Prof. Panos Antsaklis
+~~~
+{}{img_left}{jemdoc/img/committee_pantsaklis.jpg}{}{140}{}{}
+=== [http://www3.nd.edu/~pantsakl/ Panos Antsaklis]
+Department of Electrical Engineering \n
+University of Notre Dame, Notre Dame, IN 46556 \n
+USA \n
+==== [http://www3.nd.edu/~pantsakl/ Homepage]
+~~~~
 
 # ==== Dr. Betis
 ~~~
@@ -85,7 +94,7 @@ Germany \n
 {}{img_left}{jemdoc/img/committee_shu.jpg}{}{140}{}{}
 
 === [http://www3.nd.edu/~shu/ Sharon Hu]
-Deptartment of Computer Science and Engineering \n
+Department of Computer Science and Engineering \n
 University of Notre Dame, Notre Dame, IN 46556 \n
 USA \n
 ==== [http://www3.nd.edu/~shu/ Homepage]
