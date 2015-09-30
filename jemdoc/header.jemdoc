@@ -1,7 +1,7 @@
-# jemdoc: addcss{jemdoc/css/jemdoc.css}
-# jemdoc: addcss{jemdoc/css/myExtra.css}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
 
 ~~~
-{}{img_left}{jemdoc/img/bar_ccps.jpg}{TC-CCPS}{1055}{}{index.html}
+{}{img_left}{img/bar_ccps.jpg}{TC-CCPS}{1055}{}{index.html}
 ~~~
 

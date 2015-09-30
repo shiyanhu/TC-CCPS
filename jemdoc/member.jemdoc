@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{member.html}
-# jemdoc: addcss{jemdoc/css/jemdoc.css}
-# jemdoc: addcss{jemdoc/css/myExtra.css}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
 # jemdoc: title{TC-CCPS}
 
 # ==== header
@@ -11,7 +11,7 @@
 
 # ==== Prof. S.Y. Hu
 ~~~
-{}{img_left}{jemdoc/img/committee_syhu.png}{}{140}{}{}
+{}{img_left}{img/committee_syhu.png}{}{140}{}{}
 
 === [http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]
 Department of Electrical and Computer Engineering \n
@@ -23,9 +23,10 @@ USA \n
 
 # ==== Prof. Zomaya
 ~~~
-{}{img_left}{jemdoc/img/committee_azomaya.jpg}{}{140}{}{}
+{}{img_left}{img/committee_azomaya.jpg}{}{140}{}{}
 
 === [http://sydney.edu.au/engineering/it/~zomaya/ Albert Y. Zomaya]
+*Past Editor-in-Chief for [http://www.computer.org/web/tc IEEE Transactions on Computers]*  \n
 School of Information Technologies \n
 The University of Sydney \n
 Sydney, NSW 2006 \n
@@ -39,16 +40,18 @@ Australia \n
 
 # ==== Dr. Alpert
 ~~~
-{}{img_left}{jemdoc/img/committee_calpert.jpg}{}{140}{}{}
+{}{img_left}{img/committee_calpert.jpg}{}{140}{}{}
 === Charles Alpert
+*Deputy Editor-in-Chief for [http://ieee-ceda.org/publications/tcad IEEE Transactions on Computer Aided Design]* \n
 Cadence Inc. \n
 USA \n
 ~~~~
 
 # ==== Prof. Panos Antsaklis
 ~~~
-{}{img_left}{jemdoc/img/committee_pantsaklis.jpg}{}{140}{}{}
+{}{img_left}{img/committee_pantsaklis.jpg}{}{140}{}{}
 === [http://www3.nd.edu/~pantsakl/ Panos Antsaklis]
+*Editor-in-Chief for [http://www3.nd.edu/~ieeetac/ IEEE Transactions on Automatic Control]* \n
 Department of Electrical Engineering \n
 University of Notre Dame, Notre Dame, IN 46556 \n
 USA \n
@@ -57,7 +60,7 @@ USA \n
 
 # ==== Dr. Betis
 ~~~
-{}{img_left}{jemdoc/img/committee_gbetis.png}{}{140}{}{}
+{}{img_left}{img/committee_gbetis.png}{}{140}{}{}
 
 === [http://electronicdesign.com/author/gilles-betis Gilles Betis]
 IEEE Smart Cities Initiatives Chair \n
@@ -68,7 +71,7 @@ France \n
 
 # ==== Prof. Bouvry
 ~~~
-{}{img_left}{jemdoc/img/committee_pbouvry.jpg}{}{140}{}{}
+{}{img_left}{img/committee_pbouvry.jpg}{}{140}{}{}
 
 === [http://wwwen.uni.lu/research/fstc/computer_science_and_communications_research_unit/members/pascal_bouvry Pascal Bouvry]
 Campus Kirchberg, Université du Luxembourg \n
@@ -80,9 +83,10 @@ L-1359 Luxembourg \n
 
 # ==== Prof. Henkel
 ~~~
-{}{img_left}{jemdoc/img/committee_jhenkel.jpg}{}{140}{}{}
+{}{img_left}{img/committee_jhenkel.jpg}{}{140}{}{}
 
 === [http://ces.itec.kit.edu/21_henkel.php Jörg Henkel]
+*Past Editor-in-Chief for [http://acmtecs.acm.org/ ACM Transactions on Embedded Computing]* \n
 Karlsruhe Institute of Technology \n
 Germany \n
 ==== [http://ces.itec.kit.edu/21_henkel.php Homepage]
@@ -91,7 +95,7 @@ Germany \n
 
 # ==== Prof. Hu
 ~~~
-{}{img_left}{jemdoc/img/committee_shu.jpg}{}{140}{}{}
+{}{img_left}{img/committee_shu.jpg}{}{140}{}{}
 
 === [http://www3.nd.edu/~shu/ Sharon Hu]
 Department of Computer Science and Engineering \n
@@ -103,7 +107,7 @@ USA \n
 
 # ==== Prof. K. Huang
 ~~~
-{}{img_left}{jemdoc/img/committee_khuang.jpg}{}{140}{}{}
+{}{img_left}{img/committee_khuang.jpg}{}{140}{}{}
 
 === [http://smie2.sysu.edu.cn/~hk/ Kai Huang]
 School of Mobile Information Engineering \n
@@ -115,7 +119,7 @@ China \n
 
 # ==== Prof. Y. Jin
 ~~~
-{}{img_left}{jemdoc/img/committee_yjin.jpg}{}{140}{}{}
+{}{img_left}{img/committee_yjin.jpg}{}{140}{}{}
 
 === [http://www.eecs.ucf.edu/~jinyier/ Yier Jin]
 *Hardware Security Subcommittee Chair* \n
@@ -128,9 +132,10 @@ USA \n
 
 # ==== Prof. Kuo
 ~~~
-{}{img_left}{jemdoc/img/committee_twkuo.jpg}{}{140}{}{}
+{}{img_left}{img/committee_twkuo.jpg}{}{140}{}{}
 
 ==== [http://www.csie.ntu.edu.tw/~ktw/ Tei-Wei Kuo]
+*Editor-in-Chief for [http://tcps.acm.org/ ACM Transactions on Cyber-Physical Systems]* \n
 Department of Computer Science and Information Engineering \n
 National Taiwan University \n
 Taiwan \n
@@ -140,7 +145,7 @@ Taiwan \n
 
 # ==== Prof. Li
 ~~~
-{}{img_left}{jemdoc/img/committee_xli.jpg}{}{140}{}{}
+{}{img_left}{img/committee_xli.jpg}{}{140}{}{}
 === [http://users.ece.cmu.edu/~xinli Xin Li]
 Department of Electrical and Computer Engineering \n
 Carnegie Mellon University \n
@@ -151,9 +156,10 @@ USA \n
 
 # ==== Prof. Martinez
 ~~~
-{}{img_left}{jemdoc/img/committee_jsmartinez.jpg}{}{140}{}{}
+{}{img_left}{img/committee_jsmartinez.jpg}{}{140}{}{}
 
 === [http://engineering.tamu.edu/electrical/people/jsilvamartinez Jose Silva-Martinez]
+*Editor-in-Chief for [http://tcas2.polito.it/ IEEE Transactions on Circuits and Systems II]* \n
 Department of Electrical and Computer Engineering \n
 Texas A&M University \n
 USA \n
@@ -163,9 +169,10 @@ USA \n
 
 # ==== Prof. Parashar
 ~~~
-{}{img_left}{jemdoc/img/committee_mparashar.jpg}{}{140}{}{}
+{}{img_left}{img/committee_mparashar.jpg}{}{140}{}{}
 
 === [http://parashar.rutgers.edu/ Manish Parashar]
+*Deputy Editor-in-Chief for [http://www.computer.org/web/tpds IEEE Transactions on Parallel and Distributed Systems]* \n
 Department of Computer Science \n
 Rutgers, The State University of New Jersey \n
 USA \n
@@ -175,7 +182,7 @@ USA \n
 
 # ==== Prof. Pop
 ~~~
-{}{img_left}{jemdoc/img/committee_ppop.png}{}{140}{}{}
+{}{img_left}{img/committee_ppop.png}{}{140}{}{}
 
 === [http://www2.compute.dtu.dk/~paupo/ Paul Pop]
 DTU Compute \n
@@ -188,7 +195,7 @@ Denmark \n
 
 # ==== Prof. Rosenstiel
 ~~~
-{}{img_left}{jemdoc/img/committee_wrosenstiel.jpg}{}{140}{}{}
+{}{img_left}{img/committee_wrosenstiel.jpg}{}{140}{}{}
 
 === [http://www.ti.uni-tuebingen.de/Wolfgang-Rosenstiel.191.0.html Wolfgang Rosenstiel]
 Lehrstuhl Technische Informatik \n
@@ -200,7 +207,7 @@ Germany \n
 
 # ==== Prof. Ranjan
 ~~~
-{}{img_left}{jemdoc/img/committee_rranjan.jpg}{}{140}{}{}
+{}{img_left}{img/committee_rranjan.jpg}{}{140}{}{}
 
 === [http://rajivranjan.net/about/ Rajiv Ranjan]
 Commonwealth Scientific and Industrial Research Organisation \n
@@ -209,9 +216,22 @@ Australia \n
 ~~~
 
 
+# ==== J. Wang
+~~~
+{}{img_left}{img/committee_jwang.jpg}{}{140}{}{}
+
+=== Jun Wang
+*Editor-in-Chief for [http://www.ieeesmc.org/publications/transactions-on-cybernetics IEEE Transactions on Cybernetics]* \n
+Department of Mechanical and Automation Engineering \n
+The Chinese University of Hong Kong \n
+Hong Kong \n
+==== [http://www.mae.cuhk.edu.hk/~jwang/ Homepage]
+~~~
+
+
 # ==== J. Xie
 ~~~
-{}{img_left}{jemdoc/img/committee_jxie.jpg}{}{140}{}{}
+{}{img_left}{img/committee_jxie.jpg}{}{140}{}{}
 
 === Jun Xie
 Center for Information Technology Research \n
@@ -222,7 +242,7 @@ China \n
 
 # ==== Prof. Y. Xie
 ~~~
-{}{img_left}{jemdoc/img/committee_yxie.jpg}{}{140}{}{}
+{}{img_left}{img/committee_yxie.jpg}{}{140}{}{}
 
 === [http://www.cse.psu.edu/~yuanxie/ Yuan Xie]
 Department of Electrical and Computer Engineering \n
@@ -234,7 +254,7 @@ USA \n
 
 # ==== Prof. B. Yu
 ~~~
-{}{img_left}{jemdoc/img/committee_byu.jpg}{}{140}{}{}
+{}{img_left}{img/committee_byu.jpg}{}{140}{}{}
 
 === [http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]
 Department of Computer Science and Engineering \n
@@ -246,7 +266,7 @@ Hong Kong \n
 
 # ==== Prof. Q. Zhu
 ~~~
-{}{img_left}{jemdoc/img/committee_qzhu.jpg}{}{140}{}{}
+{}{img_left}{img/committee_qzhu.jpg}{}{140}{}{}
 
 === [http://www.ee.ucr.edu/~qzhu/ Qi Zhu]
 Department of Electrical and Computer Engineering \n

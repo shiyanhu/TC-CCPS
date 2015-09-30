@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{news.html}
-# jemdoc: addcss{jemdoc/css/jemdoc.css}
-# jemdoc: addcss{jemdoc/css/myExtra.css}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
 # jemdoc: title{TC-CCPS}
 
 # ==== header
@@ -25,7 +25,7 @@
 = Editor 
 
 ~~~
-{}{img_left}{jemdoc/img/committee_xli.jpg}{}{140}{}{}
+{}{img_left}{img/committee_xli.jpg}{}{140}{}{}
 === [http://users.ece.cmu.edu/~xinli Xin Li]
 Department of Electrical and Computer Engineering \n
 Carnegie Mellon University \n
@@ -39,7 +39,7 @@ USA \n
 
 # ==== Y.Jin
 ~~~
-{}{img_left}{jemdoc/img/committee_yjin.jpg}{}{140}{}{}
+{}{img_left}{img/committee_yjin.jpg}{}{140}{}{}
 
 === [http://www.eecs.ucf.edu/~jinyier/ Yier Jin]
 Department of Electrical Engineering & Computer Science \n
@@ -51,7 +51,7 @@ USA \n
 
 # ==== R. Ranjan
 ~~~
-{}{img_left}{jemdoc/img/committee_rranjan.jpg}{}{140}{}{}
+{}{img_left}{img/committee_rranjan.jpg}{}{140}{}{}
 
 === [http://rajivranjan.net/about/ Rajiv Ranjan]
 Commonwealth Scientific and Industrial Research Organisation \n
@@ -63,7 +63,7 @@ Australia \n
 
 # ==== Y. Shi
 ~~~
-{}{img_left}{jemdoc/img/committee_yshi.jpg}{}{140}{}{}
+{}{img_left}{img/committee_yshi.jpg}{}{140}{}{}
 
 === [http://web.mst.edu/~yshi/ Yiyu Shi]
 Department of Computer Science and Engineering \n
@@ -75,7 +75,7 @@ USA \n
 
 # ==== B. Yu
 ~~~
-{}{img_left}{jemdoc/img/committee_byu.jpg}{}{140}{}{}
+{}{img_left}{img/committee_byu.jpg}{}{140}{}{}
 
 === [http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]
 Department of Computer Science and Engineering \n
@@ -87,7 +87,7 @@ Hong Kong \n
 
 # ==== Q. Zhu
 ~~~
-{}{img_left}{jemdoc/img/committee_qzhu.jpg}{}{140}{}{}
+{}{img_left}{img/committee_qzhu.jpg}{}{140}{}{}
 
 === [http://www.ee.ucr.edu/~qzhu/ Qi Zhu]
 Department of Electrical and Computer Engineering \n
