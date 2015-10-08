@@ -9,15 +9,49 @@
 
 = Activities
 
-- [http://infocom2016.ieee-infocom.org/ INFOCOM 2016] - [http://www.cse.cuhk.edu.hk/~byu/INFOCOM-CPS-2016/ Workshop on CPS]
-- [http://ieee-ceda.org/publications/tcad IEEE Transactions on CAD]
-  special issue on [http://ieee-ceda.org/images/tcad2/cfp_cyperphysical_tcad.pdf CAD for Cyber-Physical System]
-- [http://www.computer.org/web/tc IEEE Transactions on Computers]
-  special issue on [http://www.computer.org/cms/Computer.org/transactions/cfps/cfp_tcsi_stscc.pdf Smart City Computing]
-- [http://www.computer.org/web/tmscs IEEE Transactions on Multi-Scale Computing Systems]
-  special issue on [http://www.computer.org/cms/Computer.org/transactions/cfps/cfp_tmscssi_hsclttsc.pdf Hardware Software Crosslayer Technologies for Trustworthy and Secure Computing]
-- [http://www.iccad.com/ ICCAD] special session on [http://iccad.com/event_details?id=196-5-D The Landscape of Smart Buildings: Modeling, Management and Infrastructure]
-- [http://www.iccd-conf.com/ ICCD] special session on Cyber-Physical Integration and Design Automation for Microfluidic Biochips
-- [http://www.dac.com/ DAC] special session on [http://www2.dac.com/events/eventdetails.aspx?id=182-46 Securing Cyber-Physical Systems: From Surveillance to Transportation and Home]
+~~~
+{}{img_left}{img/activities/2016-infocom.jpg}{}{140}{}{http://infocom2016.ieee-infocom.org/}
+[http://infocom2016.ieee-infocom.org/ INFOCOM 2016] - [http://www.cse.cuhk.edu.hk/~byu/INFOCOM-CPS-2016/ Workshop on CPS]
+~~~
+\n
+
+~~~
+{}{img_left}{img/activities/tcad.jpg}{}{140}{}{http://ieee-ceda.org/publications/tcad}
+[http://ieee-ceda.org/publications/tcad IEEE Transactions on CAD]
+special issue on [http://ieee-ceda.org/images/tcad2/cfp_cyperphysical_tcad.pdf CAD for Cyber-Physical System]
+~~~
+
+\n
+~~~
+{}{img_left}{img/activities/toc.png}{}{160}{}{http://www.computer.org/web/tc}
+[http://www.computer.org/web/tc IEEE Transactions on Computers]
+special issue on [http://www.computer.org/cms/Computer.org/transactions/cfps/cfp_tcsi_stscc.pdf Smart City Computing]
+~~~
+\n
+
+~~~
+{}{img_left}{img/activities/tmscs.jpg}{}{140}{}{http://www.computer.org/web/tmscs}
+[http://www.computer.org/web/tmscs IEEE Transactions on Multi-Scale Computing Systems]
+special issue on [http://www.computer.org/cms/Computer.org/transactions/cfps/cfp_tmscssi_hsclttsc.pdf Hardware Software Crosslayer Technologies for Trustworthy and Secure Computing]
+~~~
+
+~~~
+{}{img_left}{img/activities/2015-iccad.png}{}{140}{}{http://iccad.com/event_details?id=196-5-D}
+[http://www.iccad.com/ ICCAD]-2015 special session on [http://iccad.com/event_details?id=196-5-D The Landscape of Smart Buildings: Modeling, Management and Infrastructure]
+~~~
+
+\n
+~~~
+{}{img_left}{img/activities/2015-iccd.png}{}{140}{}{http://www.iccd-conf.com/}
+[http://www.iccd-conf.com/ ICCD]-2015 special session on Cyber-Physical Integration and Design Automation for Microfluidic Biochips
+~~~
+
+\n
+~~~
+{}{img_left}{img/activities/2015-dac.png}{}{140}{}{http://www2.dac.com/events/eventdetails.aspx?id=182-46}
+[http://www.dac.com/ DAC]-2015 special session on [http://www2.dac.com/events/eventdetails.aspx?id=182-46 Securing Cyber-Physical Systems: From Surveillance to Transportation and Home]
+~~~
+\n
 
 
+\n \n
