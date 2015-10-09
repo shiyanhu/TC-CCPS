@@ -8,21 +8,8 @@
 
 = Newsletter 
 
-#\n
-#~~~
-#{}{table}{}
-#*Editor*             |                                                                         |                       ||
-#Xin Li               | Carnegie Mellon University                                              | xinli@cmu.edu         ||
-#*Associate Editors*  |                                                                         |                       ||
-#Yier Jin             | University of Central Florida, USA                                      | yier.jin@eecs.ucf.edu ||
-#Rajiv Ranjan         | Commonwealth Scientific and Industrial Research Organisation, Australia | rajiv.ranjan@csiro.au ||
-#Yiyu Shi             | Missouri University of Science and Technology, USA                      | yshi@mst.edu          ||
-#Bei Yu               | Chinese University of Hong Kong, Hongkong                               | disyulei@gmail.com    ||
-#Qi Zhu               | University of California, Riverside, USA                                | qzhu@ece.ucr.edu  
-#~~~
 
-
-= Editor 
+== Editor 
 
 ~~~
 {}{img_left}{img/committee/committee_xli.jpg}{}{140}{}{}
@@ -35,7 +22,7 @@ USA \n
 ~~~
 
 
-= Associate Editors
+== Associate Editors
 
 # ==== Y.Jin
 ~~~
@@ -54,9 +41,10 @@ USA \n
 {}{img_left}{img/committee/committee_rranjan.jpg}{}{140}{}{}
 
 === [http://rajivranjan.net/about/ Rajiv Ranjan]
-Commonwealth Scientific and Industrial Research Organisation \n
-Australia \n
-#==== [http://rajivranjan.net/about/ Homepage]
+Newcastle University \n
+United Kingdom \n
+#Commonwealth Scientific and Industrial Research Organisation \n
+#Australia \n
 ==== Email: [mailto:rajiv.ranjan@csiro.au rajiv.ranjan@csiro.au]
 ~~~
 
