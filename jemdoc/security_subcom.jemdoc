@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{security_subcom.html}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+# jemdoc: title{TC-CCPS}
+
+# ==== header
+#include{header.jemdoc}
+
+
+= CPS Security Sub-Committee
+
+
+# ==== Prof. Y. Jin
+~~~
+{}{img_left}{img/committee/committee_yjin.jpg}{}{140}{}{}
+
+=== [http://www.eecs.ucf.edu/~jinyier/ Yier Jin]
+*CPS Security Subcommittee Chair* \n
+Department of Electrical Engineering & Computer Science \n
+University of Central Florida \n
+USA \n
+==== [http://www.eecs.ucf.edu/~jinyier/ Homepage]
+~~~
+
+
+\n \n
+
+
