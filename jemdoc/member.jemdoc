@@ -8,12 +8,13 @@
 
 
 = TC Chairs
-
+#{{{
 # ==== Prof. S.Y. Hu
 ~~~
 {}{img_left}{img/committee/committee_syhu.jpg}{}{140}{}{}
 
 === [http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]
+#*Committee Chair* \n
 Department of Electrical and Computer Engineering \n
 Michigan Technological University \n
 1400 Townsend Drive, Houghton, MI, 49931 \n
@@ -33,11 +34,45 @@ Sydney, NSW 2006 \n
 Australia \n
 ==== [http://sydney.edu.au/engineering/it/~zomaya/ Homepage]
 ~~~
+#}}}
 
+
+= Advisory Board
+#{{{
+# ==== Prof. P.R.Kumar
+~~~
+{}{img_left}{img/committee/committee_pkumar.jpg}{}{140}{}{}
+=== [http://cesg.tamu.edu/faculty/p-r-kumar/ P. R. Kumar], *FIEEE*
+*U.S. National Academy of Engineering (NAE) member* \n
+#Department of Computer Engineering \n
+Texas A&M University \n
+USA \n
+==== [http://cesg.tamu.edu/faculty/p-r-kumar/ Homepage]
+~~~
+
+# ==== Prof. Y. Pan
+~~~
+{}{img_left}{img/committee/committee_ypan.jpg}{}{140}{}{}
+=== Yunhe Pan 
+*Vice President of Chinese Academy of Engineering* \n
+#Zhejiang University \n
+#China \n
+~~~
+
+# ==== Prof. V. Piuri
+~~~
+{}{img_left}{img/committee/committee_vpiuri.jpg}{}{140}{}{}
+=== [https://homes.di.unimi.it/piuri/ Vincenzo Piuri], *FIEEE*
+*IEEE Vice President for Technical Activities* \n
+Universita' degli Studi di Milano \n
+Italy \n
+==== [https://homes.di.unimi.it/piuri/ Homepage]
+~~~
+#}}}
 
 
 = Memberships
-
+#{{{
 # ==== Dr. Alpert
 ~~~
 {}{img_left}{img/committee/committee_calpert.jpg}{}{140}{}{}
@@ -302,7 +337,7 @@ University of California at Riverside \n
 USA \n
 ==== [http://www.ee.ucr.edu/~qzhu/ Homepage]
 ~~~
-
+#}}}
 
 \n \n
 
