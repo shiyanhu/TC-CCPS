@@ -7,8 +7,7 @@
 #include{header.jemdoc}
 
 = CPS Security Sub-Committee
-
-
+#{{{
 # ==== Prof. Y. Jin
 ~~~
 {}{img_left}{img/committee/committee_yjin.jpg}{}{140}{}{}
@@ -42,22 +41,21 @@ University of South Carolina \n
 USA \n
 ==== [https://cse.sc.edu/~wyxu/ Homepage]
 ~~~
+#}}}
 
 
 \n
 = CPS Software Sub-Committee
-
-
-# ==== Prof. Q. Zhu
+#{{{
+# ==== Prof. Bouvry
 ~~~
-{}{img_left}{img/committee/committee_qzhu.jpg}{}{140}{}{}
+{}{img_left}{img/committee/committee_pbouvry.jpg}{}{140}{}{}
 
-=== [http://www.ee.ucr.edu/~qzhu/ Qi Zhu]
-*CPS Software Subcommittee Chair* \n
-Department of Electrical and Computer Engineering \n
-University of California at Riverside \n
-USA \n
-==== [http://www.ee.ucr.edu/~qzhu/ Homepage]
+=== [http://wwwen.uni.lu/research/fstc/computer_science_and_communications_research_unit/members/pascal_bouvry Pascal Bouvry]
+Campus Kirchberg, Université du Luxembourg \n
+6, rue Richard Coudenhove-Kalergi \n
+L-1359 Luxembourg \n
+==== [http://wwwen.uni.lu/research/fstc/computer_science_and_communications_research_unit/members/pascal_bouvry Homepage]
 ~~~
 
 # ==== Prof. K. Huang
@@ -71,6 +69,19 @@ China \n
 ==== [http://smie2.sysu.edu.cn/~hk/ Homepage]
 ~~~
 
+# ==== Prof. Q. Zhu
+~~~
+{}{img_left}{img/committee/committee_qzhu.jpg}{}{140}{}{}
+
+=== [http://www.ee.ucr.edu/~qzhu/ Qi Zhu]
+*CPS Software Subcommittee Chair* \n
+Department of Electrical and Computer Engineering \n
+University of California at Riverside \n
+USA \n
+==== [http://www.ee.ucr.edu/~qzhu/ Homepage]
+~~~
+
+#}}}
 
 \n \n
 
