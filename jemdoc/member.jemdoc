@@ -68,9 +68,14 @@ Italy \n
 ~~~
 #}}}
 
+
 \n
 = Memberships
 #{{{
+\<table id=noborder\>
+
+\<tr\>
+\<td\>
 # ==== Dr. Alpert
 ~~~
 {}{img_left}{img/committee/committee_calpert.jpg}{}{140}{}{}
@@ -78,8 +83,13 @@ Italy \n
 *Deputy Editor-in-Chief for [http://ieee-ceda.org/publications/tcad IEEE Transactions on Computer Aided Design]* \n
 Cadence Inc. \n
 USA \n
-~~~~
+~~~
 
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. Panos Antsaklis
 ~~~
 {}{img_left}{img/committee/committee_pantsaklis.jpg}{}{140}{}{}
@@ -89,18 +99,27 @@ Department of Electrical Engineering \n
 University of Notre Dame, Notre Dame, IN 46556 \n
 USA \n
 ==== [http://www3.nd.edu/~pantsakl/ Homepage]
-~~~~
+~~~
 
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Dr. Betis
 ~~~
 {}{img_left}{img/committee/committee_gbetis.jpg}{}{140}{}{}
-
 === [http://electronicdesign.com/author/gilles-betis Gilles Betis]
 IEEE Smart Cities Initiatives Chair \n
 France \n
 ==== [http://electronicdesign.com/author/gilles-betis Homepage]
 ~~~
 
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. R. Beyah
 ~~~
 {}{img_left}{img/committee/committee_rbeyah.jpg}{}{140}{}{}
@@ -112,6 +131,10 @@ USA \n
 ~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. Anind K. Dey
 ~~~
 {}{img_left}{img/committee/committee_adey.jpg}{}{140}{}{}
@@ -123,10 +146,13 @@ USA \n
 ~~~
 
 
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. R. Buyya
 ~~~
 {}{img_left}{img/committee/committee_rbuyya.jpg}{}{140}{}{}
-
 === [http://www.buyya.com/ Rajkumar Buyya], *FIEEE*
 *Editor-in-Chief for [http://www.computer.org/web/tcc IEEE Transactions on Cloud Computing]* \n
 University of Melbourne \n
@@ -135,10 +161,13 @@ Australia \n
 ~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. Henkel
 ~~~
 {}{img_left}{img/committee/committee_jhenkel.jpg}{}{140}{}{}
-
 === [http://ces.itec.kit.edu/21_henkel.php Jörg Henkel], *FIEEE*
 *Former Editor-in-Chief for [http://acmtecs.acm.org/ ACM Transactions on Embedded Computing]* \n
 Karlsruhe Institute of Technology \n
@@ -147,10 +176,13 @@ Germany \n
 ~~~
 
 
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. Hu
 ~~~
 {}{img_left}{img/committee/committee_shu.jpg}{}{140}{}{}
-
 === [http://www3.nd.edu/~shu/ Sharon Hu], *FIEEE*
 Department of Computer Science and Engineering \n
 University of Notre Dame, Notre Dame, IN 46556 \n
@@ -159,10 +191,13 @@ USA \n
 ~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. Y. Jin
 ~~~
 {}{img_left}{img/committee/committee_yjin.jpg}{}{140}{}{}
-
 === [http://www.eecs.ucf.edu/~jinyier/ Yier Jin]
 *CPS Security Subcommittee Chair* \n
 Department of Electrical Engineering & Computer Science \n
@@ -171,10 +206,14 @@ USA \n
 ==== [http://www.eecs.ucf.edu/~jinyier/ Homepage]
 ~~~
 
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. S. Kuindersma
 ~~~
 {}{img_left}{img/committee/committee_skuindersma.jpg}{}{140}{}{}
-
 === [http://scottk.seas.harvard.edu/ Scott Kuindersma]
 Engineering and Computer Science \n
 Harvard University \n
@@ -182,10 +221,14 @@ USA \n
 ==== [http://scottk.seas.harvard.edu/ Homepage]
 ~~~
 
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. R. Kumar
 ~~~
 {}{img_left}{img/committee/committee_rkumar.jpg}{}{140}{}{}
-
 === [http://home.engineering.iastate.edu/~rkumar/ Ratnesh Kumar], *FIEEE*
 Electrical & Computer Engineering and Computer Sciuence \n
 Iowa State University \n
@@ -194,10 +237,13 @@ USA \n
 ~~~
 
 
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. Kuo
 ~~~
 {}{img_left}{img/committee/committee_twkuo.jpg}{}{140}{}{}
-
 === [http://www.csie.ntu.edu.tw/~ktw/ Tei-Wei Kuo], *FIEEE*
 *Editor-in-Chief for [http://tcps.acm.org/ ACM Transactions on Cyber-Physical Systems]* \n
 Department of Computer Science and Information Engineering \n
@@ -206,6 +252,11 @@ Taiwan \n
 ==== [http://www.csie.ntu.edu.tw/~ktw/ Homepage]
 ~~~
 
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. N. Li
 ~~~
 {}{img_left}{img/committee/committee_nli.jpg}{}{140}{}{}
@@ -217,7 +268,10 @@ USA \n
 ~~~
 
 
-
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. X. Li
 ~~~
 {}{img_left}{img/committee/committee_xli.jpg}{}{140}{}{}
@@ -229,35 +283,44 @@ USA \n
 ~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. Martinez
 ~~~
 {}{img_left}{img/committee/committee_jsmartinez.jpg}{}{140}{}{}
-
 === [http://engineering.tamu.edu/electrical/people/jsilvamartinez Jose Silva-Martinez], *FIEEE*
 *Editor-in-Chief for [http://tcas2.polito.it/ IEEE Transactions on Circuits and Systems II]* \n
 Department of Electrical and Computer Engineering \n
 Texas A&M University \n
 USA \n
 ==== [http://engineering.tamu.edu/electrical/people/jsilvamartinez Homepage]
-~~~~
+~~~
 
 
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. Mitra
 ~~~
 {}{img_left}{img/committee/committee_smitra.jpg}{}{140}{}{}
-
 === [http://web.stanford.edu/~subh/ Subhasish Mitra], *FIEEE*
 Department of Electrical Engineering and Computer Science \n
 Stanford University \n
 USA \n
 ==== [http://web.stanford.edu/~subh/ Homepage]
-~~~~
+~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. Parashar
 ~~~
 {}{img_left}{img/committee/committee_mparashar.jpg}{}{140}{}{}
-
 === [http://parashar.rutgers.edu/ Manish Parashar], *FIEEE*
 *Deputy Editor-in-Chief for [http://www.computer.org/web/tpds IEEE Transactions on Parallel and Distributed Systems]* \n
 Department of Computer Science \n
@@ -267,10 +330,13 @@ USA \n
 ~~~
 
 
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. Parashar
 ~~~
 {}{img_left}{img/committee/committee_ypaschalidis.jpg}{}{140}{}{}
-
 === [http://sites.bu.edu/paschalidis/people/yannis-paschalidis/ Yannis Paschalidis], *FIEEE*
 *Editor-in-Chief for [http://sites.bu.edu/tcns/ IEEE Transactions on Control of Network Systems]* \n
 Boston University \n
@@ -279,10 +345,13 @@ USA \n
 ~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. Pop
 ~~~
 {}{img_left}{img/committee/committee_ppop.jpg}{}{140}{}{}
-
 === [http://www2.compute.dtu.dk/~paupo/ Paul Pop]
 DTU Compute \n
 Technical University of Denmark \n
@@ -291,10 +360,13 @@ Denmark \n
 ~~~
 
 
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. V. Rodoplu
 ~~~
 {}{img_left}{img/committee/committee_vrodoplu.jpg}{}{140}{}{}
-
 === [http://www.ece.ucsb.edu/rodoplu/ Volkan Rodoplu]
 Department of Electrical and Computer Engineering \n
 University of California at Santa Barbara \n
@@ -303,10 +375,13 @@ USA \n
 ~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. Rosenstiel
 ~~~
 {}{img_left}{img/committee/committee_wrosenstiel.jpg}{}{140}{}{}
-
 === [http://www.ti.uni-tuebingen.de/Wolfgang-Rosenstiel.191.0.html Wolfgang Rosenstiel]
 Lehrstuhl Technische Informatik \n
 University of Tuebingen \n
@@ -315,10 +390,13 @@ Germany \n
 ~~~
 
 
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. Ranjan
 ~~~
 {}{img_left}{img/committee/committee_rranjan.jpg}{}{140}{}{}
-
 === [http://rajivranjan.net/about/ Rajiv Ranjan]
 School of Computing Science \n
 Newcastle University \n
@@ -328,10 +406,14 @@ United Kingdom \n
 ==== [http://rajivranjan.net/about/ Homepage]
 ~~~
 
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. S.A. Seshia
 ~~~
 {}{img_left}{img/committee/committee_sseshia.jpg}{}{140}{}{}
-
 === [http://www.eecs.berkeley.edu/~sseshia/ Sanjit A. Seshia]
 Department of Electrical Engineering and Computer Sciences \n
 University of California, Berkeley \n
@@ -339,10 +421,14 @@ USA \n
 ==== [http://www.eecs.berkeley.edu/~sseshia/ Homepage]
 ~~~
 
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== J.H. Wang
 ~~~
 {}{img_left}{img/committee/committee_jhwang.jpg}{}{140}{}{}
-
 === [https://sites.google.com/site/eejhwang/ Jianhui Wang]
 *Editor-in-Chief for [http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411 IEEE Transactions on Smart Grid]* \n
 Argonne National Laboratory \n
@@ -351,10 +437,13 @@ USA \n
 ~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== J. Wang
 ~~~
 {}{img_left}{img/committee/committee_jwang.jpg}{}{140}{}{}
-
 === [http://www.mae.cuhk.edu.hk/~jwang/ Jun Wang], *FIEEE*
 *Editor-in-Chief for [http://www.ieeesmc.org/publications/transactions-on-cybernetics IEEE Transactions on Cybernetics]* \n
 Department of Mechanical and Automation Engineering \n
@@ -363,10 +452,14 @@ Hong Kong \n
 ==== [http://www.mae.cuhk.edu.hk/~jwang/ Homepage]
 ~~~
 
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. L. Xie
 ~~~
 {}{img_left}{img/committee/committee_lxie.jpg}{}{140}{}{}
-
 === [http://www.ece.tamu.edu/~lxie/ Le Xie]
 Department of Electrical and Computer Engineering \n
 Texas A&M University \n
@@ -375,10 +468,13 @@ USA \n
 ~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== J. Xie
 ~~~
 {}{img_left}{img/committee/committee_jxie.jpg}{}{140}{}{}
-
 === Jun Xie
 Center for Information Technology Research \n
 Chinese Academy of Governance \n
@@ -386,10 +482,13 @@ China \n
 ~~~
 
 
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. Y. Xie
 ~~~
 {}{img_left}{img/committee/committee_yxie.jpg}{}{140}{}{}
-
 === [http://www.ece.ucsb.edu/~yuanxie/ Yuan Xie], *FIEEE*
 Department of Electrical and Computer Engineering \n
 University of California at Santa Barbara \n
@@ -398,10 +497,13 @@ USA \n
 ~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. B. Yu
 ~~~
 {}{img_left}{img/committee/committee_byu.jpg}{}{140}{}{}
-
 === [http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]
 *Web Chair* \n
 Department of Computer Science and Engineering \n
@@ -411,10 +513,13 @@ Hong Kong \n
 ~~~
 
 
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Prof. Q. Zhu
 ~~~
 {}{img_left}{img/committee/committee_qzhu.jpg}{}{140}{}{}
-
 === [http://www.ee.ucr.edu/~qzhu/ Qi Zhu]
 *CPS Software Subcommittee Chair* \n
 Department of Electrical and Computer Engineering \n
@@ -422,7 +527,11 @@ University of California at Riverside \n
 USA \n
 ==== [http://www.ee.ucr.edu/~qzhu/ Homepage]
 ~~~
+
+\<\/tr\>
+\<\/table\>
 #}}}
+
 
 \n \n
 

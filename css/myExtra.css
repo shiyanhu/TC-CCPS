@@ -1,7 +1,7 @@
 
 body{
-   min-width:840px;
-   max-width:1040px;
+   min-width:1040px;
+   max-width:1640px;
    text-align:center; /*For IE6 Shenanigans*/
 }
 
@@ -19,22 +19,20 @@ li{
   margin-left:  2.4em;
 }
 
-div.menu-category {
-	/*border-bottom: 1px solid gray;*/
-	margin-top: 0.8em;
-	padding-top: 0.2em;
-	padding-bottom: 0.1em;
-	font-weight: bold;
-}
 
 /*
-a:hover {
-	color: #000000 ;
-	background: #f4f605;	
-	border-bottom: 1px #999900 solid ;
+ *  following is to remove table border
+ */
+table#noborder {
+    border: none;
 }
-*/
-#layout-menu a:hover
-{
-	color: #000000 ;
+#noborder td {
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: left;
+    border: none;
+}
+#noborder tr.heading {
+    border-bottom: none;
 }
