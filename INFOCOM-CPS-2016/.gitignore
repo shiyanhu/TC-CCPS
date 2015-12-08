@@ -1,0 +1,11 @@
+
+files
+*.html
+Archive
+bak*
+eqs
+working
+photos
+jemdoc/eqs
+.DS_Store
+

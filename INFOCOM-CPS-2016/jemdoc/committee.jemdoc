@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{committee.html}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+# jemdoc: title{INFOCOM-CPS-2016}
+
+
+# ==== header
+#include{header.jemdoc}
+
+
+== Co-Chairs
+~~~
+{}{table}{noborder}
+[http://tehranipoor.ece.ufl.edu/ Mark Tehranipoor]    |  University of Florida ||
+[http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]    |  Michigan Technological University ||
+[http://users.ece.cmu.edu/~xinli/ Xin Li]             |  Carnegie Mellon University ||
+[http://www.eecs.ucf.edu/~jinyier/ Yier Jin]          |  University of Central Florida
+~~~
+
+\n
+== Steering Committee
+~~~
+{}{table}{noborder}
+[http://www.ece.ncsu.edu/people/wwang Wenye Wang]                | North Carolina State University ||
+[http://www.cs.mtu.edu/~mins/ Min Song]                          | Michigan Technological University ||
+[http://www.it.ecei.tohoku.ac.jp/~kato/en-index.html Nei Kato]   | Tohoku University, Japan ||
+[http://personal.stevens.edu/~ychen6/ Yingying Chen]             | Stevens Institute of Technology ||
+[http://www-users.cs.umn.edu/~du/ David Du]                      | University of Minnesota ||
+[http://engineering.unl.edu/ece/faculty/yi-qian/ Yi Qian]        | University of Nebraska ||
+[http://www.zurich.ibm.com/~pmu/ Peter Mueller]                  | IBM Zurich Research Lab, Switzerland ||
+[http://web.cs.ucla.edu/~gerla/ Mario Gerla]                     | University of California at Los Angeles ||
+[http://www.ece.neu.edu/wineslab/tmelodia.php Tommaso Melodia]   | Northeastern University
+~~~
+
+\n
+== Technical Program Committee
+~~~
+{}{table}{noborder}
+~~~
+
+
+\n
+== Webmaster 
+~~~
+{}{table}{noborder}
+[http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]  | Chinese University of Hong Kong
+~~~
+
+
+
+\n \n
+

@@ -1,0 +1,45 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+# jemdoc: title{INFOCOM-CPS-2016}
+
+
+# ==== header
+#include{header.jemdoc}
+
+
+== Scope 
+
+The research of Cyber-Physical Systems (CPS) security addresses the security issues among close interactions and feedback loop between the embedded cyber components for computing and control and the dynamic physical components that involve mechanical components, human activities and surrounding environment.
+Example CPS systems include automotive and transportation systems, smart home, building and community, smart battery and energy systems, surveillance systems, cyber-physical biochip, and wearable devices.
+The recent advances of manufacturing technologies, system integrations and software platforms bring enormous challenges and opportunities for CPS design and implementation.
+However, the increasing complexity of networked computing systems makes modern network systems vulnerable to various attacks against their resources, infrastructure, and operability.
+The purpose of this workshop is to bring together researchers from a broad community, presenting state-of-the-art security solutions crossing software and hardware layers towards trustworthy CPS development and to motivate new research topics and directions in this interdisciplinary area.
+
+== Topics
+
+The topics of interests to this workshop include (but are not limited to):
+
+- Cross-layer cyber system modeling and optimization for CPS Security
+- Real-time embedded system design and scheduling for CPS Security
+- Resilient and robust network system design for CPS Security
+- User privacy in CPS
+- Sustainability for CPS
+- Security in emerging applications such as automotive and transportation system, smart energy system, internet of things, biomedical system and smart health
+- Cross-layer solutions for CPS protection
+- Hardware Trojans detection in embedded hardware platforms
+- Hardware root-of-trust
+- Cross-layer hardware/software attacks and protections
+- Hardware-supported trustworthy CPS platforms
+- Topographic and data flow modeling for cyber physical system security
+- Countermeasures for backdoors and in the software-hardware interface
+- Formal verification for CPS Security
+
+
+\n \n
+#{{<center>}}
+#{{<img src="jemdoc/img/tmp1.jpg" align="middle" width=840>}}
+#{{</center>}}
+
+
+
