@@ -106,6 +106,20 @@ USA \n
 \<\/tr\>
 \<tr\>
 \<td\>
+# ==== Prof. K-E Arzen
+~~~
+{}{img_left}{img/committee/committee_karzen.jpg}{}{140}{}{}
+=== [http://www.control.lth.se/Staff/KarlErikArzen.html Karl-Erik Årzén]
+Lund University \n
+Sweden \n
+==== [http://www.control.lth.se/Staff/KarlErikArzen.html Homepage]
+~~~
+
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== Dr. Betis
 ~~~
 {}{img_left}{img/committee/committee_gbetis.jpg}{}{140}{}{}
@@ -117,8 +131,8 @@ France \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. R. Beyah
 ~~~
@@ -128,6 +142,21 @@ School of Electrical and Computer Engineering \n
 Georgia Tech \n
 USA \n
 ==== [http://users.ece.gatech.edu/~rbeyah/ Homepage]
+~~~
+
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
+# ==== Prof. R. Buyya
+~~~
+{}{img_left}{img/committee/committee_rbuyya.jpg}{}{140}{}{}
+=== [http://www.buyya.com/ Rajkumar Buyya], *FIEEE*
+*Editor-in-Chief for [http://www.computer.org/web/tcc IEEE Transactions on Cloud Computing]* \n
+University of Melbourne \n
+Australia \n
+==== [http://www.buyya.com Homepage]
 ~~~
 
 
@@ -150,14 +179,14 @@ USA \n
 #\<\/tr\>
 #\<tr\>
 \<td\>
-# ==== Prof. R. Buyya
+# ==== Prof. M. Dorigo
 ~~~
-{}{img_left}{img/committee/committee_rbuyya.jpg}{}{140}{}{}
-=== [http://www.buyya.com/ Rajkumar Buyya], *FIEEE*
-*Editor-in-Chief for [http://www.computer.org/web/tcc IEEE Transactions on Cloud Computing]* \n
-University of Melbourne \n
-Australia \n
-==== [http://www.buyya.com Homepage]
+{}{img_left}{img/committee/committee_mdorigo.jpg}{}{140}{}{}
+=== [http://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/ Marco Dorigo], *FIEEE*
+IRIDIA \n
+Universite Libre De Bruxelles \n
+Belgium \n
+==== [http://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/ Homepage]
 ~~~
 
 
