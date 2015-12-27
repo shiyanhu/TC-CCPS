@@ -510,10 +510,24 @@ Hong Kong \n
 ==== [http://www.mae.cuhk.edu.hk/~jwang/ Homepage]
 ~~~
 
-
 \<\/td\>
 #\<\/tr\>
 #\<tr\>
+\<td\>
+# ==== Prof. D. Work
+~~~
+{}{img_left}{img/committee/committee_dwork.jpg}{}{140}{}{}
+=== [http://publish.illinois.edu/dbwork/ Dan Work]
+Civil and Environmental Engineering \n
+University of Illinois at Urbana-Champaign \n
+USA \n
+==== [http://publish.illinois.edu/dbwork/ Homepage]
+~~~
+
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. L. Xie
 ~~~
@@ -527,8 +541,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== J. Xie
 ~~~
@@ -541,8 +555,8 @@ China \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Y. Xie
 ~~~
@@ -556,8 +570,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. B. Yu
 ~~~
@@ -572,8 +586,8 @@ Hong Kong \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Huafeng Yu
 ~~~
@@ -587,8 +601,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Q. Zhu
 ~~~
@@ -602,10 +616,10 @@ USA \n
 ~~~
 
 
-\<\/td\>
-\<\/tr\>
-\<tr\>
-\<td\>
+#\<\/td\>
+#\<\/tr\>
+#\<tr\>
+#\<td\>
 
 \<\/tr\>
 \<\/table\>
