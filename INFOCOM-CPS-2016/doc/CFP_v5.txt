@@ -1,0 +1,49 @@
+#!
+
+
+===========================================================================
+                             Call for Papers
+===========================================================================
+
+    IEEE INFOCOM Workshop on Cross-Layer Cyber-Physical System Security
+                          INFOCOM-CPS 2016
+                  San Francisco, USA -- April 14, 2016
+
+---------------------------------------------------------------------------
+
+IMPORTANT DATES:
+    December 18        Full paper (extended abstract) due
+    February 5         Notification of acceptance
+
+---------------------------------------------------------------------------
+
+http://www.cse.cuhk.edu.hk/~byu/INFOCOM-CPS-2016
+
+INFOCOM-CPS 2016 is the first workshop on cross-layer cyber-physical system security. It is to addresses the security issues among close interactions and feedback loop between the embedded cyber components for computing and control and the dynamic physical components. The topics of interests include (but are not limited to):
+
+== Cross-layer network modeling and optimization for CPS Security
+== Real-time system design and scheduling for CPS Security
+== Resilient and robust network system design for CPS Security
+== User privacy in CPS
+== Sustainability for CPS
+== Security in emerging applications such as automotive and transportation system, smart energy system, internet of things, biomedical system and smart health
+== Cross-layer solutions for CPS protection
+== Cross-layer hardware/software attacks and protections 
+== Hardware-supported trustworthy CPS platforms
+== Topographic and data flow modeling for cyber physical system security
+== Countermeasures for backdoors and in the software-hardware interface 
+== Formal verification for CPS Security
+
+---------------------------------------------------------------------------
+                          Co-Chairs
+Mark Tehranipoor, University of Florida
+Shiyan Hu,        Michigan Technological University
+Xin Li,           Carnegie Mellon University
+Yier Jin,         University of Central Florida
+
+---------------------------------------------------------------------------
+
+Support by:  IEEE TC-CCPS
+
+---------------------------------------------------------------------------
+
