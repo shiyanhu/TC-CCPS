@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{cfp.html}
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/myExtra.css}
-# jemdoc: title{INFOCOM-CPS-2016}
+# jemdoc: title{CPSS-2016}
 
 
 # ==== header
@@ -10,16 +10,16 @@
 
 == Call For Papers 
 ~~~
-- [./doc/CFP_v5.pdf PDF format] (49KB)
+- [./doc/CFP_v6.pdf PDF format] (49KB)
 ~~~
 
 
 == Important Dates 
 ~~~
 {}{table}{noborder}
-*Full paper due*               | \<del\>Dec. 18, 2015\<\/del\> *\<font color=red\>Jan. 15, 2016\<\/font\>* (11:59pm EDT) ||
-*Notification of acceptance*   | \<del\>Feb. 5,  2016\<\/del\> *\<font color=red\>Feb. 19, 2016\<\/font\>* (11:59pm EDT) ||
-*Workshop date*                | April 13--15, 2016
+*Full paper due*               | \<del\>Jan. 15, 2016\<\/del\> *\<font color=red\>Monday, February 01, 2016\<\/font\>* (11:59pm EDT) ||
+*Notification of acceptance*   | \<del\>Feb. 19, 2016\<\/del\> *\<font color=red\>Tuesday, March 01, 2016\<\/font\>* (11:59pm EDT) ||
+*Workshop date*                | Monday, April 11, 2016
 ~~~
 
 
