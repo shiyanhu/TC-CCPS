@@ -1,0 +1,51 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+# jemdoc: title{CPSDA-2016}
+
+
+# ==== header
+#include{header.jemdoc}
+
+
+== Scope 
+
+Cyber-Physical Systems (CPS) are characterized by the strong interactions among cyber components and dynamic physical components.
+CPS system examples include automotive and transportation systems, smart home, building and community, smart battery and energy systems, surveillance systems, cyber-physical biochip, and wearable devices.
+Due to the deeply complex intertwining among different components, CPS designs pose fundamental challenges in multiple aspects such as performance, energy, security, reliability, fault tolerance and flexibility.
+Innovative design automation techniques, algorithms and tools that addressing the unique CPS challenges, such as the fast increase of system scale and complexity,
+the close interactions with dynamic physical environment and human activities, the significant uncertainties in sensor readings, the employment of distributed architectural platforms,
+and the tight real-time constraints, are highly desirable.
+This workshop will present the state-of-the-art research results on the topic of design automation for CPS, and stimulate the CAD researchers to participate in the interdisciplinary CPS research area in the future.
+#In addition to the regular submissions, this workshop will also seek invited submissions/talks from some high profile experts.
+
+
+== Topics
+
+The topics of interests to this workshop include (but are not limited to):
+
+- Design, synthesis and verification of CPS
+- Efficient simulation for CPS
+- CPS security and privacy
+- Real-time system design and scheduling for CPS Security
+- EDA tools for large-scale CPS construction
+- Cross-layer modeling and optimization for CPS
+- High level synthesis for efficient CPS structure
+- CPS fault detection and recovery
+- Applications of CPS in different fields
+- Automotiveandtransportationsystems
+- Smartenergysystemssuchasbattery,home,buildingandgrid o Smarthealth
+- Surveillanceandresponsesystems
+
+
+== Support By
+
+IEEE Technical Committee on CPS ([http://www.ieee-cps.org www.ieee-cps.org]).
+
+\n \n
+#{{<center>}}
+#{{<img src="jemdoc/img/tmp1.jpg" align="middle" width=840>}}
+#{{</center>}}
+
+
+

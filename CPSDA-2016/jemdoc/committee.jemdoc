@@ -1,0 +1,51 @@
+# jemdoc: menu{MENU}{committee.html}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+# jemdoc: title{CPSDA-2016}
+
+
+# ==== header
+#include{header.jemdoc}
+
+
+== Co-Chairs
+~~~
+{}{table}{noborder}
+[http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]    |  Michigan Technological University     ||
+[http://users.ece.cmu.edu/~xinli/ Xin Li]             |  Carnegie Mellon University            ||
+[http://www.ee.ucr.edu/~qzhu/ Qi Zhu]                 |  University of California at Riverside ||
+[http://www.eecs.ucf.edu/~jinyier/ Yier Jin]          |  University of Central Florida
+~~~
+
+\n
+== Steering Committee
+
+TBD
+~~~
+{}{table}{noborder}
+#[http://personal.stevens.edu/~ychen6/ Yingying Chen]             | Stevens Institute of Technology ||
+#[http://www.ece.neu.edu/wineslab/tmelodia.php Tommaso Melodia]   | Northeastern University ||
+#[http://engineering.unl.edu/ece/faculty/yi-qian/ Yi Qian]        | University of Nebraska ||
+#[http://www.cs.mtu.edu/~mins/ Min Song]                          | Michigan Technological University ||
+#[http://www.ece.ncsu.edu/netwis/ Wenye Wang]                     | North Carolina State University
+~~~
+
+\n
+== Publicity Chair 
+~~~
+{}{table}{noborder}
+[http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]               | Chinese University of Hong Kong
+~~~
+
+\n
+== Technical Program Committee
+TBD
+~~~
+{}{table}{noborder}
+~~~
+
+
+
+
+\n \n
+
