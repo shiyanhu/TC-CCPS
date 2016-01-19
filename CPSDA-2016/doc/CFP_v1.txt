@@ -1,0 +1,49 @@
+
+
+--------------------------------------------------------------------------------
+                                 Call For Papers
+--------------------------------------------------------------------------------
+
+The First IEEE International Workshop on Design Automation for Cyber-Physical Systems (CPSDA 2016)
+organized in conjunction with IEEE/ACM Design Automation Conference (DAC 2016).
+
+http://www.ieee-cps.org/CPSDA-2016
+
+Cyber-Physical Systems (CPS) are characterized by the strong interactions among cyber components and dynamic physical components. CPS system examples include automotive and transportation systems, smart home, building and community, smart battery and energy systems, surveillance systems, cyber-physical biochip, and wearable devices. Due to the deeply complex intertwining among different components, CPS designs pose fundamental challenges in multiple aspects such as performance, energy, security, reliability, fault tolerance and flexibility. Innovative design automation techniques, algorithms and tools that addressing the unique CPS challenges, such as the fast increase of system scale and complexity, the close interactions with dynamic physical environment and human activities, the significant uncertainties in sensor readings, the employment of distributed architectural platforms, and the tight real-time constraints, are highly desirable. This workshop will present the state-of-the-art research results on the topic of design automation for CPS, and stimulate the CAD researchers to participate in the interdisciplinary CPS research area in the future.
+
+CPSDA 2016 is a workshop technically supported by IEEE Technical Committee on CPS (www.ieee-cps.org) and it is dedicated to design automation for cyber-physical systems. The topics of interest include, but are not limited to:
+
+-  Design, synthesis and verification of CPS
+-  Efficient simulation for CPS
+-  CPS security and privacy
+-  Real-time system design and scheduling for CPS Security
+-  EDA tools for large-scale CPS construction
+-  Cross-layer modeling and optimization for CPS
+-  High level synthesis for efficient CPS structure
+-  CPS fault detection and recovery
+-  Applications of CPS in different fields such as
+   == Automotive and transportation systems
+   == Smart energy systems such as battery, home, building and grid
+   == Smart health
+   == Surveillance and response systems
+
+
+Submission Details
+Paper submissions need to be through http://www.easychair.org/conferences/?conf=cpsda2016. Each submission is required to be in PDF format, and no more than 6 pages (including the abstract, figures, tables, and references) in a double column format. For detailed instructions for submission, please refer to http://www.ieee-cps.org/CPSDA-2016/.
+
+
+Important Dates
+Full paper due:               February 05, 2016 (11:59pm EDT)
+Notification of acceptance:   February 15, 2016 (11:59pm EDT)
+Final version:                February 24, 2016 (11:59pm EDT)
+
+
+Workshop Program Co-Chairs
+Shiyan Hu    Michigan Technological University        shiyan@mtu.edu
+Xin Li       Carnegie Mellon University               xinli@cmu.edu
+Yier Jin     University of Central Florida            yier.jin@eecs.ucf.edu
+Qi Zhu       University of California at Riverside    qzhu@ece.ucr.edu
+
+Workshop Publicity Chair
+Bei Yu       Chinese University of Hong Kong          byu@cse.cuhk.edu.hk
+
