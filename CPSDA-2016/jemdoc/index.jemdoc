@@ -8,14 +8,14 @@
 #include{header.jemdoc}
 
 
-=== IEEE International Workshop on Design Automation for Cyber-Physical Systems (CPSDA) 2016
+=== The 1st IEEE International Workshop on Design Automation for Cyber-Physical Systems (CPSDA 2016)
 
 == Scope 
 
 Cyber-Physical Systems (CPS) are characterized by the strong interactions among cyber components and dynamic physical components.
 CPS system examples include automotive and transportation systems, smart home, building and community, smart battery and energy systems, surveillance systems, cyber-physical biochip, and wearable devices.
 Due to the deeply complex intertwining among different components, CPS designs pose fundamental challenges in multiple aspects such as performance, energy, security, reliability, fault tolerance and flexibility.
-Innovative design automation techniques, algorithms and tools that addressing the unique CPS challenges, such as the fast increase of system scale and complexity,
+Innovative design automation techniques, algorithms and tools addressing the unique CPS challenges, such as the fast increase of system scale and complexity,
 the close interactions with dynamic physical environment and human activities, the significant uncertainties in sensor readings, the employment of distributed architectural platforms,
 and the tight real-time constraints, are highly desirable.
 This workshop will present the state-of-the-art research results on the topic of design automation for CPS, and stimulate the CAD researchers to participate in the interdisciplinary CPS research area in the future.
