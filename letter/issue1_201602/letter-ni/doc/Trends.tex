@@ -1,0 +1,67 @@
+\section{Introduction} 
+
+%http://www.ni.com/internet-of-things/ 
+%By 2020, more than 50 billion devices will be digitally connected, representing $19 trillion in business opportunity (original statement by Cisco)
+% Adny Chang's article in http://issuu.com/xcelljournal/docs/xcell_journal_issue_92
+% According to Gartner Inc., an estimated 4.9 billion connected devices will be used in 2015, rising to 25 billion in 2020
+
+Modern day Industrial Internet of Things (IIoT) applications are large heterogeneous distributed systems with over 30,000 sensors and 10,000 nodes.
+Trends indicate a tremendous growth in the number of connected components over the coming years.
+Gartner Research predicts over 20~billion interconnected devices by 2020, representing a \$3 trillion business and technology opportunity \cite{Gartner_IoT_2020}.
+%Predictions for the number of interconnected devices by 2020 range from 25 billion (Gartner Inc.) to 50 billion (Cisco), representing a \$19 trillion dollar business and technology opportunity.
+Lee et al. refer to this emerging global cyber-physical network as the \emph{TerraSwarm}, encompassing trillions of sensors and actuators deployed across the planet \cite{SwarmAtEdgeOfCloud}.
+These applications will dynamically assemble sensors and computation nodes, aggregate and process large quantities of data, and transfer decisions to actuators and controllers, while meeting tight performance requirements and cost constraints.
+
+Cyber-physical networked systems can generate gigabytes and potentially terabytes of sensor data about the condition and operation of the system.
+For example, the condition monitoring solution for the Victoria Line of the London Underground rail system yields 32 TB of data every day \cite{NITrendWatch2016}. 
+In the midst of this explosion of engineering and measurement data, it has become imperative for systems to incorporate a sound management strategy to aggregate the data, conduct diagnostic analytics about the condition of the system, and facilitate predictive maintenance to reduce downtimes and maximize efficiency.
+%Monitoring solutions must provide efficient analytics at the edges of the system and smart enterprise management to derive insight into patterns and trends in the operation of the system.
+Given the cost and complexity of modern cyber-physical systems, it is important that the monitoring solution be scalable and customizable to meet changing application requirements.
+
+Nevertheless, with the advances in sensing and networking technologies, adding measurements to systems has become easier and cost-effective. 
+Intelligence of data acquisition devices and sensors has drastically increased and become more decentralized, with processing elements moving closer to the sensor.
+In addition to measurement devices getting smarter, smart sensors have emerged that integrate sensing, signal conditioning, embedded processing, and digital interfacing into the sensor node itself. 
+
+As processing moves closer to the sensor, innovation in measurement system software is required to efficiently push analytics to the edge. 
+Future software for edge-based systems will be able to quickly configure and manage thousands of networked measurement devices and push a myriad of analytics and signal processing to those nodes. 
+Going forward, systems must transition to smarter, software-based measurement nodes to keep up with the amount of analog data and derive insights about patterns and trends in the operation of the system.
+The ``smart edge'' needs specialized software and platform solutions to perform local control and data acquisition and interconnect with entire networks of intelligent ``systems of systems'' \cite{NITrendWatch2016}.
+
+In this paper, we discuss advances in intelligent machine condition monitoring for cyber-physical networked systems and recent technologies in this area. 
+Section 2 of this paper reviews key components and techniques in a machine condition monitoring solution. 
+Section 3 then presents an industrial tool called InsightCM from National Instruments and discusses an application case study.
+
+%Major players in the marketplace include Br\"{u}el \& Kjaer Vibro, ClampOn AS, Corrpro Companies Inc., Data Physics Corporation, DLI Engineering Corp, Emerson Process Management, FLIR Systems Inc., GE Energy, Honeywell Process Solutions, ITT Corporation, Kittiwake Developments Limited, PCB Piezotronics Inc., Rockwell Automation Inc., Rohrback Cosasco Systems, Scientific Monitoring Inc., Shinkawa Electric Co., Ltd., SKF Condition Monitoring Inc., SPM Instrument AB, The Timken Company, among others \cite{ResarchandMarkets15}.
+
+%EETimes: http://www.eetimes.com/document.asp?doc_id=1320763 
+%“sensors are everywhere and in every form”
+
+%ehttp://www.reliableplant.com/Read/28292/Global-machine-condition-monitoring
+%Condition monitoring has gained importance as companies critically focused on asset utilization and productivity.
+%The need for eliminating catastrophic downtimes due to unexpected breakdowns and unnecessary maintenance costs will continue to drive the adoption of condition monitoring solutions across several industries.
+
+%Discuss:
+%Title
+%No NI refs in sec 2.
+%More refs.
+%Summary?
+%Expand scope to cybernetics or keep current scope to MCM for CPS
+%Move major players to sec 3
+%Move MCM disc to sec 2
+% Somewthing about crio
+%Something about duke energy analysis
+
+%One of the few industries to flourish in adversity is the machine condition monitoring equipment market. A traditionally resilient vector of the industrial equipment market, machine condition monitoring equipment has recorded hardy growth against a backdrop of increased focus on reducing plant operating costs by reducing maintenance costs, optimizing maintenance activities during planned shutdowns and lowering the instances of unscheduled outages. 
+
+%
+
+%http://www.researchandmarkets.com/reports/3493625/machine-condition-monitoring-market-by-monitoring
+
+%Brüel \& Kjær Vibro, ClampOn AS, Corrpro Companies Inc., Data Physics Corporation, DLI Engineering Corp, Emerson Process Management, FLIR Systems Inc., GE Energy, Honeywell Process Solutions, are some major players in the market. 
+
+%Outline: Generic trends in cybernetics. Motivate need for monitoring lots of data. MCM becomes important for cybernetics. List companies in MCM. 
+
+%Xilinx Xcell 92: http://www.xilinx.com/publications/archives/xcell/Xcell92.pdf
+
+%“Mac hine Condition Monitoring Equipment: A Global Strategic Business Report” announced by Global Industry Analysts Inc., 
+%http://www.strategyr.com/Marketresearch/Machine_Condition_Monitoring_Equipment_Market_Trends.asp

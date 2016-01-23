@@ -4,6 +4,6 @@ all:
 	./jemdoc.py  -o ../ committee.jemdoc
 	./jemdoc.py  -o ../ subcom.jemdoc
 	./jemdoc.py  -o ../ activity.jemdoc
-	./jemdoc.py  -o ../ news.jemdoc
+	./jemdoc.py  -o ../ letter.jemdoc
 	#cp -rf eqs  ../
 

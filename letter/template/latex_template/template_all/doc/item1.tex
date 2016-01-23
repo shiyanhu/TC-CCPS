@@ -1,0 +1,65 @@
+
+\NewsTitle{Here Is Your Title}
+\NewsAuthor{Name, XXX University}
+
+\section{Introduction and Motivation}
+
+In very large scale integrated (VLSI) circuit design, shrinking transistor feature size using advanced lithography techniques has been a holy grail for the whole semiconductor industry.
+However, the gap between the manufacturing capability and the design expectation becomes more and more critical for sub-28$nm$ technology nodes
+Under the constraint of 193$nm$ wavelength lithography, advanced circuit designs are vulnerable to many reliability issues,
+such as open/shorts, performance degradation, or parametric yield loss.
+There are several lithography techniques to overcome these issues \cite{LITH_TCAD2013_Pan}.
+In emerging technology node and the near future, multiple patterning lithography (MPL) has become the most viable lithography technique.
+Generally speaking, MPL consists of two different manufacturing processes: litho-etch type and self-aligned patterning type.
+In the longer future (for the logic node beyond 14$nm$), there are several next generation lithography options,
+such as extreme ultra violet (EUV), electron beam lithography (EBL), directed self-assembly (DSA), and nanoimprint lithography (NIL).
+
+However, so far most of the DFM research are merely providing ad hoc solutions.
+That is, one specific work is targeting at one particular lithography constraint,
+and one work is hard to be re-used by another one where a new lithography constraint is involved.
+Therefore, CAD vendors may have to prepare a bunch of technical supports to these emerging design challenges.
+Recently there is a trend that different lithography techniques may combined to provide better printability.
+Due to such trend, in the near future, the situation may be even worse that more and more CAD tools and design supports are required.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=.44\textwidth]{spie13_1d_style}
+    \caption{Regular design can be decomposed into lines and cuts \cite{CELL_SPIE2013_Smayling}.}
+    \label{fig:spie13_1d_style}
+\end{figure}
+
+Extreme regular design is a promising solution for DFM community to resolve the diverse design challenges
+\cite{LITH_SPIE2014_Liebmann}.
+Fig.~\ref{fig:spie13_1d_style} gives an example of such extreme regular layout \cite{CELL_SPIE2013_Smayling},
+where we can see that the layout can be decomposed into line patterns and cut patterns.
+The benefit of such regularity is twofold.
+On the one hand, although various resolution enhancement techniques (RET) are utilized,
+random geometrical configurations are still hard to implement due to lithography limitation.
+Extreme regular style is able to improve the manufacturability and achieve manageable post-layout processing complexity.
+As shown in Fig.~\ref{fig:spie13_1d_style}, the regular layout is the ease of splitting into line patterns and cut patterns.
+This allows independent process optimization of the line patterns and cut patterns.
+On the other hand, extreme regular design is naturally friendly to different emerging lithography techniques.
+For example, the cut patterns can be easily manufactured using EBL, DSA, or MPL.
+
+
+\bibliographystyle{plain}
+\begin{thebibliography}{10}
+
+\bibitem{LITH_TCAD2013_Pan}
+D.~Z. Pan, B.~Yu, and J.-R. Gao, ``Design for manufacturing with emerging
+  nanolithography,'' \emph{IEEE Transactions on Computer-Aided Design of
+  Integrated Circuits and Systems (TCAD)}, vol.~32, no.~10, pp. 1453--1472,
+  2013.
+
+\bibitem{CELL_SPIE2013_Smayling}
+M.~C. Smayling, ``{1D} design style implications for mask making and {CEBL},''
+  in \emph{Proceedings of SPIE}, vol. 8880, 2013.
+
+\bibitem{LITH_SPIE2014_Liebmann}
+L.~Liebmann, V.~Gerousis, P.~Gutwin, M.~Zhang, G.~Han, and B.~Cline,
+  ``Demonstrating production quality multiple exposure patterning aware routing
+  for the 10nm node,'' in \emph{Proceedings of SPIE}, vol. 9053, 2014.
+
+
+\end{thebibliography}
+

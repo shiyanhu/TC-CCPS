@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{news.html}
+# jemdoc: menu{MENU}{letter.html}
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/myExtra.css}
 # jemdoc: title{TC-CCPS}
@@ -24,6 +24,10 @@ USA \n
 
 == Associate Editors
 
+\<table id=noborder\>
+
+\<tr\>
+\<td\>
 # ==== Y.Jin
 ~~~
 {}{img_left}{img/committee/committee_yjin.jpg}{}{140}{}{}
@@ -36,6 +40,10 @@ USA \n
 #==== [http://www.eecs.ucf.edu/~jinyier/ Homepage]
 ~~~
 
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== R. Ranjan
 ~~~
 {}{img_left}{img/committee/committee_rranjan.jpg}{}{140}{}{}
@@ -50,6 +58,10 @@ United Kingdom \n
 ~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Y. Shi
 ~~~
 {}{img_left}{img/committee/committee_yshi.jpg}{}{140}{}{}
@@ -62,6 +74,10 @@ USA \n
 ~~~
 
 
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
 # ==== B. Yu
 ~~~
 {}{img_left}{img/committee/committee_byu.jpg}{}{140}{}{}
@@ -74,6 +90,10 @@ Hong Kong \n
 ~~~
 
 
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Q. Zhu
 ~~~
 {}{img_left}{img/committee/committee_qzhu.jpg}{}{140}{}{}
@@ -85,6 +105,11 @@ USA \n
 #==== [http://www.ee.ucr.edu/~qzhu/ Homepage]
 ==== Email: [qzhu@ece.ucr.edu qzhu@ece.ucr.edu]
 ~~~
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 
 
 
