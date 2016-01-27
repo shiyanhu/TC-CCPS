@@ -7,7 +7,26 @@
 # ==== header
 #include{header.jemdoc}
 
+== Confirmed Speakers
 
+=== Keynote Talk
+~~~
+{}{table}{noborder}
+[http://cesg.tamu.edu/faculty/p-r-kumar/ Prof. P.R. Kumar]~~~~~~~~~~~~  | Member of U.S. National Academy of Engineering, FIEEE, FACM, Texas A&M University
+~~~
+
+=== Invited Talks
+
+~~~
+{}{table}{noborder}
+[http://www.ece.umn.edu/users/sachin/ Prof. Sachin Sapatenkar] |  FIEEE, University of Minnesota    ||
+[http://people.ee.duke.edu/~krish/ Prof. Krish Chakrabarty]    |  FIEEE, FACM, Duke University      ||
+[https://web.stanford.edu/~subh/ Prof. Subhasish Mitra]        |  FIEEE, FACM, Stanford University  ||
+[http://www3.nd.edu/~shu/ Prof. Sharon Hu]                     |  FIEEE, University of Notre Dame
+~~~
+
+
+\n
 == Technical Program
 
 TBD
