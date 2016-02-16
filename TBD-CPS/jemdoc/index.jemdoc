@@ -1,0 +1,63 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Big Data for Cyber-Physical Systems}
+
+~~~
+{}{img_left}{img/bar_tbdcps.jpg}{TBD-CPS}{1080}{}{index.html}
+~~~
+
+
+= Big Data for Cyber-Physical Systems
+
+Cyber-Physical Systems (CPS) are characterized by the deep complex intertwining among cyber components and physical components.
+Due to the fast increase in system complexities, the operations of CPS involve sensing, processing and storage of massive amount of data.
+This nature of "big data" imposes fundamental challenges on the design and management of CPS in multiple aspects such as performance, energy efficiency, security, privacy, reliability, sustainability, fault tolerance, scalability and flexibility.
+Tackling these challenges necessitates innovative big data techniques for handling massive data in CPS.
+This special issue will present the state-of-the-art research results on the topic of big data sensing, processing and storage for CPS, and stimulate a broad range of researchers to participate in the interdisciplinary CPS research in the future.
+The topics of interests for this special issue include, but are not limited to:
+
+- Big data sensing, transmission and storage for CPS
+- Big data modeling and analytics for CPS
+- Security and privacy in data management of CPS
+- Parallel and distributed computing for large scale CPS
+- Design methodologies for multi-scale cyber-physical systems
+- Cyber-physical cloud computing and data center management
+- Scalable design and big data management of smart home, building, community systems, as well as connected vehicles and intelligent transportation systems
+- Data mining in smart energy systems
+- Real-time operations of large-scale smart energy systems and interactions with grid
+- Big data analytics for location based services
+- Reliability and sustainability in CPS
+- Cross-layer modeling and optimizations in CPS
+
+
+== Submission Instructions
+
+This special issue solicits original work not under consideration for publication in any other conference or journal.
+Authors need to prepare the manuscripts according to the guideline of IEEETransactions on Big Data (TBD) at [http://www.computer.org/web/tbd/author http:\/\/www.computer.org\/web\/tbd\/author].
+Authors should submit their papers through the online manuscript portal system ([https://mc.manuscriptcentral.com/tbd-cs https:\/\/mc.manuscriptcentral.com\/tbd-cs]) and select the right special issue.
+For more information, please contact the Guest Editor Professor Shiyan Hu at [mailto@shiyan@mtu.edu shiyan@mtu.edu].
+
+
+== Important Dates
+
+~~~
+{}{table}{noborder}
+July     15, 2016:  |  Deadline for paper submissions     ||
+October  15, 2016:  |  First round review decisions       ||
+December 15, 2016:  |  Deadline for revised manuscripts   ||
+February 15, 2017:  |  Notification of final decisions    ||
+March    15, 2017:  |  Publication materials due
+~~~
+
+== Guest Editors
+~~~
+{}{table}{noborder}
+Professor Shiyan Hu       | Michigan Technological University ||
+Professor Xin Li          | Carnegie Mellon University        ||
+Professor Haibo He        | University of Rhode Island        ||
+Professor Shuguang Cui    | Texas A\&M University             ||
+Professor Manish Parashar | Rugters University
+~~~
+
+\n \n
+
