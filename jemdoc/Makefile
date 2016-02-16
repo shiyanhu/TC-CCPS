@@ -6,4 +6,5 @@ all:
 	./jemdoc.py  -o ../ activity.jemdoc
 	./jemdoc.py  -o ../ letter.jemdoc
 	#cp -rf eqs  ../
+	./jemdoc.py  -o ../ TBD-CPS.jemdoc
 
