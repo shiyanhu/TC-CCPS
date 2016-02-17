@@ -1,7 +1,11 @@
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/myExtra.css}
 
+
 ~~~
-{}{img_left}{img/bar_ccps_0.jpg}{TC-CCPS}{1055}{}{index.html}
+{}{img_left}{img/bar_ccps_0.jpg}{TC-CCPS}{1080}{}{index.html}
 ~~~
 
+#{{<center>}}
+#{{<img src="img/bar_ccps_0.jpg" align="middle" width=1100>}}
+#{{</center>}}
