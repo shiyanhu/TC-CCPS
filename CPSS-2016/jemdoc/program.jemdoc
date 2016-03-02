@@ -12,8 +12,8 @@
 
 ~~~
 {}{table}{noborder}
-8:00--8:20 ~~~~~~~~~~~~~~~~~~~~~~~~ | Opening remarks ||
-8:20--9:20   | *\<font color=red\>Keynote:\<\/font\> A Mathematical Formulation for Optimal Load Shifting of Electricity Demand*  ||
+14:00--14:20 ~~~~~~~~~~~~~~~~~~~~~~~~ | Opening remarks ||
+14:20--15:20 | *\<font color=red\>Keynote:\<\/font\> A Mathematical Formulation for Optimal Load Shifting of Electricity Demand*  ||
              | [./doc/bio_yinyu_ye.pdf /Yinyu Ye, Stanford University, USA/] ||
              | Abstract: \<font size=\"3\" color=\"\#808080\"\>
 We describe the background and an analytical framework for a mathematical optimization model for home
@@ -28,33 +28,33 @@ efficiency of current smart appliances and their respective prices. Finally, we 
 the major concerns when the model is applied in the real world, and the possible future areas that can be explored.
                \<\/font\>      ||
              | ||
-9:20--9:30   | Break           ||
+15:20--15:30 | Break           ||
              | ||
-9:30--10:00  | *\<font color=red\>Invited:\<\/font\> Cyber-Physical Systems Security: Toward a Secure and Smart Power Grid*         ||
+15:30--16:00 | *\<font color=red\>Invited:\<\/font\> Cyber-Physical Systems Security: Toward a Secure and Smart Power Grid*         ||
              | [./doc/bio_haibo_he.pdf /Haibo He, University of Rhode Island, USA/] ||
              | Abstract: \<font size=\"3\" color=\"\#808080\"\>
 Cyber-Physical Systems (CPS) has become a critical research topic worldwide in the past several years. Among many aspects for CPS research and development, the “security” issue has been identified as a core of the crosscutting strategic challenges that are essential to the success of all sectors by the CPS Steering Group of the Federal Networking and Information Technology Research and Development (NITRD). The joint behavior of the “cyber” and “physical” elements of the CPS makes the security aspect plays an essential role in the operation of the entire system. In this talk, I will take the energy system as an example of the CPS, and present our recent research methods and results in the field toward a secure and smart power grid.
 #\<p\>Specifically, the security issue of electric power grid has drawn significantly increasing attentions from academy, industry, and government after several large-scale blackouts (e.g., North American blackout in 2003, South American blackout in 2009, and the India blackout in 2012) and cyber penetrations to the grid. The most recent power blackout in Ukraine (December 23, 2015) was one of the first known cyber attacks that resulted in an electrical power outage (The Washington Post). Recognizing the importance and challenges of ensuring security of power grid, our team has focused on a few fundamental questions on smart grid security in the past several years: How could complex attacks, which exploit interactions among multiple elements of the grid in both temporal and spatial domains, impact the behavior of the power grid? What are the appropriate models and metrics that enable efficient and comprehensive security and vulnerability analysis in power grid? Unlike many of the existing efforts that focus on abstract topological structure or load-based analysis, we consider both the grid topology and intrinsic power flow characteristics to understand the grid behavior under complex attacks. In particular, I will focus on the modeling and simulation approaches and results on power grid cascading behavior analysis under different types of attacks, such as sequential attacks, joint node-link attack, etc. Various assessment metrics and graphs integrated with the power grid data visualization, power flow analysis, and geographic information system (GIS) will be presented. As power grid security is a key to enhance the national power system security to meet our energy objective, I will also briefly discuss the future research challenges and opportunities in this field.\<\/p\>
                \<\/font\>      ||
              | ||
-10:00--10:20 | *Leveraging Carbon Nanotube Technologies in Developing Physically Unclonable Function for Cyber-Physical System Authentication* ||
+16:00--16:20 | *Leveraging Carbon Nanotube Technologies in Developing Physically Unclonable Function for Cyber-Physical System Authentication* ||
              | /Shiyan Hu, Michigan Technological University, USA/ ||
              | ||
-10:20--10:40 | *Overview of Cyber-Physical Temperature Estimation in Smart Buildings: From Modeling to Measurements* ||
+16:20--16:40 | *Overview of Cyber-Physical Temperature Estimation in Smart Buildings: From Modeling to Measurements* ||
              | /Xin Li, Carnegie Mellon University, USA/ ||
              | ||
-10:40--11:00 | *A Novel Algorithm for Secrecy Rate Analysis in Massive MIMO System with Target SINR Requirements*    ||
+16:40--17:00 | *A Novel Algorithm for Secrecy Rate Analysis in Massive MIMO System with Target SINR Requirements*    ||
              | /Danda Rawat, Georgia Southern University, USA/ ||
              | ||
-11:00--11:20 | Break       ||
+17:00--17:20 | Break       ||
              | ||
-11:20--11:40 | *Emerging Challenges in Cyber-Physical Systems: A Balance of Performance, Correctness, and Security*  ||
+17:20--17:40 | *Emerging Challenges in Cyber-Physical Systems: A Balance of Performance, Correctness, and Security*  ||
              | /Yier Jin, University of Central Florida, USA/ ||
              | ||
-11:40--12:00 | *Security concerns for automotive communication and software architecture* ||
-             | /Huafeng Yu, TOYOTA InfoTechnology Center, USA/ ||
-             | ||
-12:00--12:20 | *Spatiotemporal Risk-Averse Routing* ||
+#11:40--12:00 | *Security concerns for automotive communication and software architecture* ||
+#             | /Huafeng Yu, TOYOTA InfoTechnology Center, USA/ ||
+#             | ||
+17:40--18:00 | *Spatiotemporal Risk-Averse Routing* ||
              | /Fernando Kuipers, Delft University of Technology, Netherlands/
 
 \n \n \n \n
