@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{member.html}
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/myExtra.css}
-# jemdoc: title{TC-CCPS}
+# jemdoc: title{TC-CPS}
 
 # ==== header
 #include{header.jemdoc}
