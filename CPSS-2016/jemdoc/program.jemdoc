@@ -17,21 +17,20 @@
              | [./doc/bio_yinyu_ye.pdf /Yinyu Ye, Stanford University, USA/] ||
              | Abstract: \<font size=\"3\" color=\"\#808080\"\>
 We describe the background and an analytical framework for a mathematical optimization model for home
-energy management systems (HEMS) to manage electricity demand by efficiently shifting electricity loads of households from
-peak times to off-peak times. We illustrate the flexibility of the model by modularizing various available technologies such as
-plug-in electric vehicles, battery storage, and automatic windows. First, the analysis shows that the end-user can accrue economic
-benefits by shifting consumer loads away from higher-priced periods. Specifically, we assessed the most likely sources of value
-to be derived from demand response technologies. Therefore, wide adoption of such modeling could create significant cost
-savings for consumers. Second, the findings are promising for the further development of more intelligent HEMS in the residential
-sector. Third, we formulated a smart grid valuation framework that is helpful for interpreting the model’s results concerning the
-efficiency of current smart appliances and their respective prices. Finally, we explain the model’s benefits and its policy implications, 
-the major concerns when the model is applied in the real world, and the possible future areas that can be explored.
+energy management systems (HEMS) to manage electricity demand by efficiently shifting electricity loads of households from peak times to off-peak times.
+We illustrate the flexibility of the model by modularizing various available technologies such as plug-in electric vehicles, battery storage, and automatic windows.
+First, the analysis shows that the end-user can accrue economic benefits by shifting consumer loads away from higher-priced periods.
+Specifically, we assessed the most likely sources of value to be derived from demand response technologies.
+Therefore, wide adoption of such modeling could create significant cost savings for consumers.
+Second, the findings are promising for the further development of more intelligent HEMS in the residential sector.
+Third, we formulated a smart grid valuation framework that is helpful for interpreting the model's results concerning the efficiency of current smart appliances and their respective prices.
+Finally, we explain the model's benefits and its policy implications, the major concerns when the model is applied in the real world, and the possible future areas that can be explored.
                \<\/font\>      ||
              | ||
 15:20--15:30 | Break           ||
              | ||
 15:30--16:00 | *\<font color=red\>Invited:\<\/font\> TBD*         ||
-             | TBD ||
+             | [http://tehranipoor.ece.ufl.edu/ /Mark Tehranipoor, University of Florida, USA/] ||
              | Abstract: \<font size=\"3\" color=\"\#808080\"\>
                TBD
                \<\/font\>      ||
