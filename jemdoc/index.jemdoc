@@ -14,15 +14,25 @@
 
 The IEEE Technical Committee on Cyber-Physical Systems (a.k.a. IEEE Technical Committee on Cybernetics for Cyber-Physical Systems) aims at promoting interdisciplinary research and education in the field of cyber-physical systems (CPS).
 CPS addresses the close interactions and feedback loop between the cyber components such as embedded computing systems and the physical components such as varying environment and mechanical systems.
-The exemplary CPS research areas include the engineering foundation of the cyber-physical interactions, the design and verification of embedded computing systems in CPS,
-the collection, and the application of CPS methodologies in various domains such as the development of smart home, community and city.
+The exemplary CPS research areas include the theory and practice of data sensing and manipulation, the engineering foundation of the cyber-physical interactions, the design and verification of embedded computing systems,
+and the application of CPS methodologies in various areas such as medical prosthetics, wearable device, connected autonomous vehicle, energy system, smart home/building/community/city, internet of things, etc.
 
-The design, implementation and operation of embedded systems in CPS needs the consideration of multiple aspects such as computational constraints, performance,
-energy, security, reliability, fault tolerance, flexibility and extensibility.
-To build optimal and reliable CPS, there is a great need for computational intelligence techniques such as large-scale analytical modeling,
-complex stochastic optimization, formal methods and verification, and real-time intelligent systems control.
-It is highly desirable to develop innovative computational intelligence techniques that can address unique CPS challenges such as the fast increase of system scale and complexity,
-the close interactions with dynamic physical environment, and the significant uncertainties in sensor readings.
+The design, implementation and operation of CPS systems need the consideration of multiple aspects such as computational constraints, performance, energy, user experience, security, reliability, fault tolerance, flexibility and extensibility.
+To build optimal and reliable CPS, there is a great need for big data techniques such as large-scale analytical modeling, complex stochastic optimization, statistical machine learning, formal methods and verification, and real-time intelligent control.
+It is highly desirable to develop innovative interdisciplinary techniques that can address unique CPS challenges such as the fast increase of system scale and complexity, the close interactions with dynamic physical environment, and the significant uncertainties in sensor readings.
+It is also imperative to bridge CPS research to a variety of emerging domains including big data analytics, smart energy systems, smart health, smart cities, etc.
+
+#The IEEE Technical Committee on Cyber-Physical Systems (a.k.a. IEEE Technical Committee on Cybernetics for Cyber-Physical Systems) aims at promoting interdisciplinary research and education in the field of cyber-physical systems (CPS).
+#CPS addresses the close interactions and feedback loop between the cyber components such as embedded computing systems and the physical components such as varying environment and mechanical systems.
+#The exemplary CPS research areas include the engineering foundation of the cyber-physical interactions, the design and verification of embedded computing systems in CPS,
+#the collection, and the application of CPS methodologies in various domains such as the development of smart home, community and city.
+#
+#The design, implementation and operation of embedded systems in CPS needs the consideration of multiple aspects such as computational constraints, performance,
+#energy, security, reliability, fault tolerance, flexibility and extensibility.
+#To build optimal and reliable CPS, there is a great need for computational intelligence techniques such as large-scale analytical modeling,
+#complex stochastic optimization, formal methods and verification, and real-time intelligent systems control.
+#It is highly desirable to develop innovative computational intelligence techniques that can address unique CPS challenges such as the fast increase of system scale and complexity,
+#the close interactions with dynamic physical environment, and the significant uncertainties in sensor readings.
 
 #=== Motivation 
 #
