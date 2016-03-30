@@ -15,7 +15,7 @@
 The IEEE Technical Committee on Cyber-Physical Systems (a.k.a. IEEE Technical Committee on Cybernetics for Cyber-Physical Systems) aims at promoting interdisciplinary research and education in the field of cyber-physical systems (CPS).
 CPS addresses the close interactions and feedback loop between the cyber components such as embedded computing systems and the physical components such as varying environment and mechanical systems.
 The exemplary CPS research areas include the theory and practice of data sensing and manipulation, the engineering foundation of the cyber-physical interactions, the design and verification of embedded computing systems,
-and the application of CPS methodologies in various areas such as medical prosthetics, wearable device, connected autonomous vehicle, energy system, smart home/building/community/city, internet of things, etc.
+and the application of CPS methodologies in various areas such as medical prosthetics, wearable device, connected autonomous vehicle, energy system, smart home\/building\/community\/city, internet of things, etc.
 
 The design, implementation and operation of CPS systems need the consideration of multiple aspects such as computational constraints, performance, energy, user experience, security, reliability, fault tolerance, flexibility and extensibility.
 To build optimal and reliable CPS, there is a great need for big data techniques such as large-scale analytical modeling, complex stochastic optimization, statistical machine learning, formal methods and verification, and real-time intelligent control.
