@@ -9,6 +9,9 @@
 
 = TC Chairs
 #{{{
+\<table id=noborder\>
+\<tr\>
+\<td\>
 # ==== Prof. S.Y. Hu
 ~~~
 {}{img_left}{img/committee/committee_syhu.jpg}{}{120}{}{}
@@ -20,6 +23,8 @@ USA \n
 ==== [http://web.stanford.edu/~shiyanhu/ Homepage]
 ~~~
 
+\<\/td\>
+\<td\>
 # ==== Prof. Zomaya
 ~~~
 {}{img_left}{img/committee/committee_azomaya.jpg}{}{120}{}{}
@@ -27,27 +32,37 @@ USA \n
 === [http://sydney.edu.au/engineering/it/~zomaya/ Albert Y. Zomaya], *FIEEE*
 *Former Editor-in-Chief for [http://www.computer.org/web/tc IEEE Transactions on Computers]*  \n
 School of Information Technologies \n
-The University of Sydney \n
+University of Sydney \n
 Sydney, NSW 2006 \n
 Australia \n
 ==== [http://sydney.edu.au/engineering/it/~zomaya/ Homepage]
 ~~~
+
+\<\/td\>
+\<\/tr\>
+\<\/table\>
 #}}}
 
 \n
 = Advisory Board
 #{{{
+\<table id=noborder\>
+\<tr\>
+\<td\>
 # ==== Prof. P.R.Kumar
 ~~~
 {}{img_left}{img/committee/committee_pkumar.jpg}{}{120}{}{}
 === [http://cesg.tamu.edu/faculty/p-r-kumar/ P. R. Kumar], *FIEEE*
-*U.S. National Academy of Engineering (NAE) member* \n
+*U.S. National Academy of Engineering (NAE) \n member* \n
 #Department of Computer Engineering \n
 Texas A&M University \n
 USA \n
 ==== [http://cesg.tamu.edu/faculty/p-r-kumar/ Homepage]
 ~~~
 
+
+\<\/td\>
+\<td\>
 # ==== Prof. Y. Pan
 ~~~
 {}{img_left}{img/committee/committee_ypan.jpg}{}{120}{}{}
@@ -57,6 +72,11 @@ USA \n
 #China \n
 ~~~
 
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. V. Piuri
 ~~~
 {}{img_left}{img/committee/committee_vpiuri.jpg}{}{120}{}{}
@@ -66,6 +86,10 @@ Universita' degli Studi di Milano \n
 Italy \n
 ==== [https://homes.di.unimi.it/piuri/ Homepage]
 ~~~
+
+\<\/td\>
+\<\/tr\>
+\<\/table\>
 #}}}
 
 
@@ -210,6 +234,21 @@ Belgium \n
 #\<\/tr\>
 #\<tr\>
 \<td\>
+# ==== Prof. M. Fujita
+~~~
+{}{img_left}{img/committee/committee_mfujita.jpg}{}{120}{}{}
+=== [
+http://www.cad.t.u-tokyo.ac.jp/en/ Masahiro Fujita], *FIEEE*
+University of Tokyo \n
+Japan \n
+==== [http://www.cad.t.u-tokyo.ac.jp/en/ Homepage]
+~~~
+
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. Henkel
 ~~~
 {}{img_left}{img/committee/committee_jhenkel.jpg}{}{120}{}{}
@@ -222,8 +261,8 @@ Germany \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. T.Y. Ho
 ~~~
@@ -237,8 +276,8 @@ Taiwan \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Hu
 ~~~
@@ -252,8 +291,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Y. Jin
 ~~~
@@ -268,8 +307,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. M. Kochenderfer
 ~~~
@@ -283,8 +322,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. S. Kuindersma
 ~~~
@@ -298,8 +337,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. R. Kumar
 ~~~
@@ -313,8 +352,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Kuo
 ~~~
@@ -329,8 +368,8 @@ Taiwan \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. N. Li
 ~~~
@@ -344,8 +383,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. X. Li
 ~~~
@@ -359,8 +398,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Low
 ~~~
@@ -373,8 +412,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Martinez
 ~~~
@@ -389,8 +428,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Mitra
 ~~~
@@ -404,8 +443,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Parashar
 ~~~
@@ -420,8 +459,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Parashar
 ~~~
@@ -435,8 +474,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Pop
 ~~~
@@ -450,8 +489,8 @@ Denmark \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. V. Rodoplu
 ~~~
@@ -465,8 +504,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Rosenstiel
 ~~~
@@ -480,8 +519,8 @@ Germany \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Ranjan
 ~~~
@@ -497,8 +536,8 @@ United Kingdom \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. S.A. Seshia
 ~~~
@@ -512,8 +551,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== J.H. Wang
 ~~~
@@ -527,8 +566,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== J. Wang
 ~~~
@@ -536,15 +575,15 @@ USA \n
 === [http://www.mae.cuhk.edu.hk/~jwang/ Jun Wang], *FIEEE*
 *Editor-in-Chief for [http://www.ieeesmc.org/publications/transactions-on-cybernetics IEEE Transactions on Cybernetics]* \n
 Department of Mechanical and Automation Engineering \n
-The Chinese University of Hong Kong \n
+Chinese University of Hong Kong \n
 Hong Kong \n
 ==== [http://www.mae.cuhk.edu.hk/~jwang/ Homepage]
 ~~~
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. D. Work
 ~~~
@@ -558,8 +597,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. L. Xie
 ~~~
@@ -573,8 +612,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== J. Xie
 ~~~
@@ -588,8 +627,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Y. Xie
 ~~~
@@ -604,8 +643,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. B. Yu
 ~~~
@@ -620,8 +659,8 @@ Hong Kong \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Huafeng Yu
 ~~~
@@ -635,8 +674,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Q. Zhu
 ~~~
